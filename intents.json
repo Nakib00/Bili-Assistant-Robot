@@ -1,0 +1,1883 @@
+{
+	"intents": [
+		{
+			"tag": "greeting",
+			"patterns": [
+				"Hi",
+				"How are you",
+				"Is anyone there?",
+				"Hello",
+				"Good day"
+			],
+			"responses": [
+				"Hello, thanks for visiting",
+				"Good to see you",
+				"Hi dear, how can I help?"
+			]
+		},
+		{
+			"tag": "goodbye",
+			"patterns": [
+				"Bye",
+				"See you later",
+				"Goodbye",
+				"tata"
+			],
+			"responses": [
+				"See you later, thanks for visiting",
+				"Have a nice day",
+				"Bye! Come back again soon."
+			]
+		},
+		{
+			"tag": "thanks",
+			"patterns": [
+				"Thanks",
+				"Thank you",
+				"That's helpful",
+				"Thanks for the help"
+			],
+			"responses": [
+				"Happy to help!",
+				"Any time!",
+				"My pleasure"
+			]
+		},
+		{
+			"tag": "name",
+			"patterns": [
+				"What is your name?",
+				"Who are you?",
+				"Tell me your name"
+			],
+			"responses": [
+				"Bili",
+				" My name is Bili",
+				"i'm Bili"
+			]
+		},
+		{
+			"tag": "iubnfo",
+			"patterns": [
+				"What is the name of our university?",
+				"What is the full name of iub?",
+				"Tell me the full form of iub"
+			],
+			"responses": [
+				"Independent University, Bangladesh"
+			]
+		},
+		{
+			"tag": "library",
+			"patterns": [
+				"Where is the library?",
+				"Where is the library situated?",
+				"Tell me about the library location"
+			],
+			"responses": [
+				"The library is on 3th floor in BC Building",
+				"The library is situated in 3th floor",
+				"3th floor in BC Building"
+			]
+		},
+		{
+			"tag": "lab",
+			"patterns": [
+				"Where is the CSE lab one?",
+				"Where is the computer lab situated?",
+				"Tell me about the computer lab location",
+				"Computer lab"
+			],
+			"responses": [
+				"The computer lab is on 12th floor",
+				"The computer lab is situated in 12th floor",
+				"12th floor"
+			]
+		},
+		{
+			"tag": "phylab",
+			"patterns": [
+				"Where is the Physics lab?",
+				"Where is the physics lab situated?",
+				"Tell me about the physics lab location",
+				"Physics lab"
+			],
+			"responses": [
+				"The Physics lab is on 11th floor",
+				"The computer lab is situated in 12th floor",
+				"12th floor"
+			]
+		},
+		{
+			"tag": "hours",
+			"patterns": [
+				"What hours are you open?",
+				"What are your hours?",
+				"When are you open?"
+			],
+			"responses": [
+				"We're open every day 8.30am-5.30pm",
+				"Our hours are 8.30am-5.30pm every day"
+			]
+		},
+		{
+			"tag": "chairman",
+			"patterns": [
+				"Who is the Chairman of CSE department?",
+				"Who is the Chairman of Computer Science & Engineering Department?",
+				"What is the name of the Chairman of BCSE Department?"
+			],
+			"responses": [
+				"Dr. Utpal Kanti Das"
+			]
+		},
+		{
+			"tag": "coordinator",
+			"patterns": [
+				"Who is the Coordinator of CSE department?",
+				"Who is the Coordinator of Computer Science & Engineering Department?",
+				"What is the name of the Coordinator of BCSE Department?"
+			],
+			"responses": [
+				"Dr.  Hasibur Rashid Chayon"
+			]
+		},
+		{
+			"tag": "opentoday",
+			"patterns": [
+				"Are you open today?",
+				"When do you open today?",
+				"What are your hours today?"
+			],
+			"responses": [
+				"We're open every day from 8.30am-5.30pm except Thursday and Friday",
+				"Our hours are 8.30am-5.30pm except Thursday and Friday"
+			]
+		},
+		{
+			"tag": "faculty",
+			"patterns": [
+				"How many faculty members in iub?",
+				"Tell me the number of faculty member in iub?",
+				" What is the total faculty number of iub?"
+			],
+			"responses": [
+				"321 Faculty Members in total",
+				" 321",
+				"about 321 faculty Members"
+			]
+		},
+		{
+			"tag": "studyLeavefaculty",
+			"patterns": [
+				"How many faculty are in study leave?",
+				"Tell me the number of study leave faculty",
+				"study leave faculty"
+			],
+			"responses": [
+				"60",
+				" Almost 60 faculty are in study leave"
+			]
+		},
+		{
+			"tag": "facultyPHD",
+			"patterns": [
+				"How many faculty have PHD degree?",
+				" Tell me how many faculty have the PHD degree?",
+				"Number of PHD Faculty"
+			],
+			"responses": [
+				"75",
+				"75 faculty have the PHD degree"
+			]
+		},
+		{
+			"tag": "fulltimeFaculty",
+			"patterns": [
+				"How many faculty work for full time?",
+				"Number of full time faculty"
+			],
+			"responses": [
+				"242"
+			]
+		},
+		{
+			"tag": "halftimeFaculty",
+			"patterns": [
+				"How many faculty work for half time?",
+				"Number of half time faculty"
+			],
+			"responses": [
+				"19",
+				"Only 19 faculty"
+			]
+		},
+		{
+			"tag": "malestudents",
+			"patterns": [
+				"How many male students are in iub?",
+				"Number of male students"
+			],
+			"responses": [
+				"5665",
+				"About 5665 students are male in iub"
+			]
+		},
+		{
+			"tag": "femalestudents",
+			"patterns": [
+				"How many female students are in iub?",
+				"Number of female students"
+			],
+			"responses": [
+				"2732",
+				"About 2732 students are female in iub"
+			]
+		},
+		{
+			"tag": "students",
+			"patterns": [
+				"How many students are in iub?",
+				"Number of total students",
+				"Total number of students in iub campus"
+			],
+			"responses": [
+				"8397",
+				"Total students are 8397"
+			]
+		},
+		{
+			"tag": "internationaltudents",
+			"patterns": [
+				"How many international students are in iub?",
+				"Number of international students"
+			],
+			"responses": [
+				"68",
+				"About 68 students are international students in iub",
+				"Overall international students are 68 in total"
+			]
+		},
+		{
+			"tag": "internationalundergraduatestudents",
+			"patterns": [
+				"How many international undergraduate students are in iub?",
+				"Number of international undergraduate students"
+			],
+			"responses": [
+				"62",
+				"About 62 students are international undergraduate students in iub",
+				"Overall international undergraduate students            are 62 in total"
+			]
+		},
+		{
+			"tag": "undergraduatestudents",
+			"patterns": [
+				"How many undergraduate students are in iub?",
+				"Number of undergraduate students"
+			],
+			"responses": [
+				"8236",
+				"About 8236 students are undergraduate in iub",
+				"Overall undergraduate students are 8236 in total"
+			]
+		},
+		{
+			"tag": "departments",
+			"patterns": [
+				"How many departments are in iub?",
+				"Number of departments",
+				"Total number of department in iub campus"
+			],
+			"responses": [
+				"10",
+				"Total departments are 10"
+			]
+		},
+		{
+			"tag": "colleges",
+			"patterns": [
+				"How many colleges are in iub?",
+				"Number of colleges",
+				"Total number of college in iub campus"
+			],
+			"responses": [
+				"7",
+				"Total colleges are 7"
+			]
+		},
+		{
+			"tag": "bba",
+			"patterns": [
+				"Tell me the details for BBA Program?",
+				"I want to know Bachelor of Business Administration Program?",
+				"BBA Program in                iub",
+				"BBA details"
+			],
+			"responses": [
+				"BBA full form Bachelor of Business Administration. Time duration-4 years, 12 semesters, 132 credit hours, TK 65,485/- per            semester (approx. without scholarship)"
+			]
+		},
+		{
+			"tag": "cse",
+			"patterns": [
+				"Tell me the details for CSE Program?",
+				"Tell me the details for BCSE Program?",
+				"I want to know Bachelor of Computer Science           and Engineering Program?",
+				"CSE Program",
+				"CSE Details"
+			],
+			"responses": [
+				"BCSE full form- Bachelor of Computer Science and Engineering, Time duration- 4 years,12 semesters,143 credit hours,TK 6,822          /- per semester (approx. without scholarship)"
+			]
+		},
+		{
+			"tag": "bsce",
+			"patterns": [
+				"Tell me the details for BSCE Program?",
+				"Tell me the details for BSCE Program?",
+				"I want to know Bachelor of Science in Civil Engineering Program?",
+				"BSCE Program",
+				"Tell me BSCE Details",
+				" Tell me about Civil Department"
+			],
+			"responses": [
+				"BSCE full form- Bachelor of Science in Civil Engineering, Time duration- 4 years, 12 semesters, 157 credit hours, Tk 71,849/- per semester (approx. without scholarship)"
+			]
+		},
+		{
+			"tag": "chairbsce",
+			"patterns": [
+				"Tell me the chairman name of BSCE?",
+				"What is the chairman name of civil department?",
+				"I want to know the chairman name of Bachelor of Science in Civil Engineering Program?"
+			],
+			"responses": [
+				"Dr Md Monirul Islam"
+			]
+		},
+		{
+			"tag": "drMonirulIslam",
+			"patterns": [
+				"Can you please tell me details of Dr Md Monirul Islam sir?",
+				" Please tell me the details of Monirul sir of BSCE department?"
+			],
+			"responses": [
+				" Dr Md Monirul Islam is the Dean of College of Engineering and Technology (CEAT) and also Professor and Chair, Department of Civil Engineering. His Room # 318, Ext # 307,E-mail: mmislam@iub.edu"
+			]
+		},
+		{
+			"tag": "coordinatorbsce",
+			"patterns": [
+				"Tell me the coordinator name of BSCE?",
+				"What is the Coordinator name of civil department?",
+				"I want to know the coordinator name of Bachelor of Science in Civil Engineering Program?",
+				"Who is the coordinator of BSCE?"
+			],
+			"responses": [
+				"Dr Md Mahfuzur Rahman"
+			]
+		},
+		{
+			"tag": "drMahfuzurRahman",
+			"patterns": [
+				"Can you please tell me details of Dr Md Mahfuzur Rahman?",
+				" Please tell me the details of Mahfuz sir of BSCE department?"
+			],
+			"responses": [
+				" Dr.  Md. Mahfuzur Rahman is the Assistant Professor & Coordinator of BSCE. His Room # 314   Ext # 306,E-mail: mfz.rahman@iub.edu"
+			]
+		},
+		{
+			"tag": "drMdTarekhRasul",
+			"patterns": [
+				"Can you please tell me details of Dr Md Tarekh Rasul sir?",
+				" Please tell me the details of Tarekh sir of BSCE department?",
+				"Info of Tarekh Rasul sir"
+			],
+			"responses": [
+				" Dr Md. Tarekh Rasul is the Professor of BSCE department. His Room # 512 Ext # 154,E-mail:trasul@iub.edu"
+			]
+		},
+		{
+			"tag": "drSuvashChandraPaul",
+			"patterns": [
+				"Can you please tell me details of Dr.Suvash Chandra Paul sir?",
+				" Please tell me the details of Suvash sir of BSCE department?",
+				"Info of Dr.Suvash Chandra Paul sir"
+			],
+			"responses": [
+				" Dr.Suvash Chandra Paul is the Professor of BSCE department. His Room # 615 Ext # 613,E-mail: suvashpl@iub.edu"
+			]
+		},
+		{
+			"tag": "drMuhammadEnamulQuadir",
+			"patterns": [
+				"Can you please tell me details of Dr Muhammad Enamul Quadir sir?",
+				" Please tell me the details of Enamul sir of BSCE department?",
+				"Info of Dr Muhammad Enamul Quadir sir"
+			],
+			"responses": [
+				" Dr Muhammad Enamul Quadir is an Associate Professor of BSCE department."
+			]
+		},
+		{
+			"tag": "drNoorMd.Sadiqul Hasan",
+			"patterns": [
+				"Can you please tell me details of Dr. Noor Md. Sadiqul Hasan sir?",
+				" Please tell me the details of Dr. Noor Md. Sadiqul Hasan sir of BSCE department?",
+				"Info of Dr. Noor Md. Sadiqul Hasan sir"
+			],
+			"responses": [
+				" Dr. Noor Md. Sadiqul Hasan is an Associate Professor of BSCE department. His Email: nmshasan@iub.edu"
+			]
+		},
+		{
+			"tag": "anisurRahman",
+			"patterns": [
+				"Can you please tell me details of Engr. Md. Anisur Rahman sir?",
+				" Please tell me the details of Anisur sir of BSCE department?",
+				"Info of Engr. Md. Anisur Rahman sir",
+				"Details of Titu sir"
+			],
+			"responses": [
+				" Engr. Md. Anisur Rahman is the Associate Professor of BSCE department. His Room # 511 Ext # 228,E-mail: anisur.rahman@iub.edu"
+			]
+		},
+		{
+			"tag": "anisuzzamanKhan",
+			"patterns": [
+				"Can you please tell me details of Anisuzzaman Khan sir?",
+				" Please tell me the details of Anisuzzaman Khan sir of BSCE department?",
+				"Info of Anisuzzaman Khan"
+			],
+			"responses": [
+				" Anisuzzaman Khan is an Associate Professor & Student adviser of BSCE department. His Room # 303 Ext # 302, E-mail: anis.zaman@iub.edu"
+			]
+		},
+		{
+			"tag": "syedaRezwanaJannat",
+			"patterns": [
+				"Can you please tell me details of Syeda Rezwana Jannat maam?",
+				" Please tell me the details of Syeda Rezwana Jannat of BSCE department?",
+				"Info of Syeda Rezwana Jannat"
+			],
+			"responses": [
+				" Syeda Rezwana Jannat is an Associate Professor of BSCE department. Her Room # 923,E-mail:  rezwanajannat@iub.edu"
+			]
+		},
+		{
+			"tag": "abdulBasit",
+			"patterns": [
+				"Can you please tell me details of Md. Abdul Basit?",
+				" Please tell me the details of Md. Abdul Basit sir of BSCE department?",
+				"Info of Md. Abdul Basit"
+			],
+			"responses": [
+				"Md. Abdul Basit is an Associate Professor of BSCE department. His Room # 811 Ext # 841,E-mail: abdul.basit@iub.edu"
+			]
+		},
+		{
+			"tag": "matiurRahmanRaju",
+			"patterns": [
+				"Can you please tell me details of Matiur Rahman Raju?",
+				" Please tell me the details of Matiur Rahman Raju sir of BSCE department?",
+				"Info of Matiur Rahman Raju"
+			],
+			"responses": [
+				"Matiur Rahman Raju is a Senior Lecturer of BSCE department. His Room # 511,E-mail : mraju.civil@iub.edu"
+			]
+		},
+		{
+			"tag": "rifatSumonaMollik",
+			"patterns": [
+				"Can you please tell me details of Rifat Sumona Mollik?",
+				" Please tell me the details of Rifat Sumona Mollik maam of BSCE department?",
+				"Info of Rifat Sumona Mollik"
+			],
+			"responses": [
+				"Rifat Sumona Mollik is a Senior Lecturer of BSCE department. Her Room # 714 | Ext # 572,E-mail: sumona.mollik@iub.edu"
+			]
+		},
+		{
+			"tag": "sumaiyaJarinAhammed",
+			"patterns": [
+				"Can you please tell me details of Sumaiya Jarin Ahammed?",
+				" Please tell me the details of Sumaiya Jarin Ahammed maam of BSCE department?",
+				"Info of Sumaiya Jarin Ahammed"
+			],
+			"responses": [
+				"Sumaiya Jarin Ahammed is a Senior Lecturer of BSCE department. Her Room #923, E-mail: sumaiya.jarin@iub.edu"
+			]
+		},
+		{
+			"tag": "soumikNafisSadeek ",
+			"patterns": [
+				"Can you please tell me details of Mr.Soumik Nafis Sadeek ?",
+				" Please tell me the details of Mr.Soumik Nafis Sadeek sir of BSCE department?",
+				"Info of Mr.Soumik Nafis Sadeek "
+			],
+			"responses": [
+				"Mr.Soumik Nafis Sadeek  is a Lecturer and OBE Coordinator of BSCE department. His Room # 708, Ext # 800,E-mail : soumik.sadeek@iub.edu"
+			]
+		},
+		{
+			"tag": "ishraqTasnimHossain ",
+			"patterns": [
+				"Can you please tell me details of Mr.Ishraq Tasnim Hossain?",
+				" Please tell me the details of Mr.Ishraq Tasnim Hossain sir of BSCE department?",
+				"Info of Mr.Ishraq Tasnim Hossain "
+			],
+			"responses": [
+				"Mr.Ishraq Tasnim Hossain  is a Lecturer of BSCE department. His E-mail: ishraq.ce@iub.edu"
+			]
+		},
+		{
+			"tag": "emdadulHaque",
+			"patterns": [
+				"Can you please tell me details of Md. Emdadul Haque?",
+				" Please tell me the details of Md. Emdadul Haque sir of BSCE department?",
+				"Info of Md. Emdadul Haque"
+			],
+			"responses": [
+				"Md. Emdadul Haque is a Lecturer of BSCE department. His Room# 713, Ext# 432,E-mail: emdadul.civil@iub.edu"
+			]
+		},
+		{
+			"tag": "bsme",
+			"patterns": [
+				"Tell me the details for BSME Program?",
+				"Tell me the details for BSME Program?",
+				"I want to know Bachelor of Science in in Mechanical Engineering Program?",
+				"BSME Program",
+				"Tell me ME Details",
+				" Tell me about BSME Department"
+			],
+			"responses": [
+				"BSME full form- Bachelor of Science in Mechanical Engineering, Time duration- 4 years, 12 semesters, 153.5 credit hours, TK 72,672/- per semester (approx. without scholarship)"
+			]
+		},
+		{
+			"tag": "baecon",
+			"patterns": [
+				"Tell me the details for BAEcon Program?",
+				"Tell me the details for Economics Program?",
+				"I want to know Bachelor of Arts in Economics Program?",
+				"BAECon. Program",
+				"Tell me Economics Details",
+				" Tell me about BAECon Department"
+			],
+			"responses": [
+				"BAEcon full form- Bachelor of Arts in Economics, Time Duration-4 years, 12 semesters, 125 credit hours,TK 47,585/- per semester (approx. without scholarship)"
+			]
+		},
+		{
+			"tag": "baEng",
+			"patterns": [
+				"Tell me the details for BAEng Program?",
+				"Tell me the details for English Program?",
+				"I want to know Bachelor of Arts in English Program?",
+				"BAEng Program",
+				"Tell me English Details",
+				" Tell me about BAEng Department"
+			],
+			"responses": [
+				"BA Eng full form- Bachelor of Arts in English, Time duration-4 years, 12 semesters, 129 credit hours, TK 53,631/- per semester (approx. without scholarship)"
+			]
+		},
+		{
+			"tag": "bsAg",
+			"patterns": [
+				"Tell me the details for BATHM Program?",
+				"Tell me the details for BATHM Program?",
+				"I want to know Arts in Tourism and Hospitality Management Program?",
+				"BATHM Program",
+				"Tell me BATHM Details",
+				" Tell me about BATHM Department"
+			],
+			"responses": [
+				"BATHM full form- Bachelor of Arts in Tourism and Hospitality Management, Time Duration-4 years, 12 semesters, 131 credit hours, TK 53,876/- per semester (approx. without scholarship)"
+			]
+		},
+		{
+			"tag": "bathm",
+			"patterns": [
+				"Tell me the details for BSAg Program?",
+				"Tell me the details for Agriculture Program?",
+				"I want to know Bachelor of Science in Agriculture Program?",
+				"BSAg Program",
+				"Tell me Agriculture Details",
+				" Tell me about BSAg Department"
+			],
+			"responses": [
+				"BSAg full form- Bachelor of Science in Agriculture,Time duration-4 years, 12 semesters, 155 credit hours,TK 60,358/- per semester (approx. without scholarship)"
+			]
+		},
+		{
+			"tag": "bsn",
+			"patterns": [
+				"Tell me the details for BSN Program?",
+				"Tell me the details for Nursing Program?",
+				"I want to know Bachelor of Science  in Nursing Program?",
+				"BSN Program",
+				"Tell me Nursing Details",
+				" Tell me about Nursing Department"
+			],
+			"responses": [
+				"BSN full form-Bachelor of Science in Nursing,Time duration-4 years, 12 semesters, 157 credit hours,TK 39,931/- per semester (approx. without scholarship)"
+			]
+		},
+		{
+			"tag": "dcse",
+			"patterns": [
+				"Tell me the details for DCSE Program?",
+				"Tell me the details for Diploma in Computer Science & Engineering Program?",
+				"I want to know Diploma  in CSE Program?",
+				"DSCE Program",
+				"Tell me Diploma in Computer Science Details",
+				" Tell me about DSCE Department"
+			],
+			"responses": [
+				"DCSE full form- Diploma in Computer Science & Engineering,Time duration-1 year 8 months, 5 semesters, 61 credit hours,Tk 16,910/- per semester (approx. without scholarship)"
+			]
+		},
+		{
+			"tag": "dia",
+			"patterns": [
+				"Tell me the details for DIA Program?",
+				"Tell me the details for Diploma in Accounting Program?",
+				"I want to know Diploma  in Accounting Program?",
+				"DIA Program",
+				"Tell me Diploma in Accounting Details",
+				" Tell me about DIA Department"
+			],
+			"responses": [
+				"DIA full form-Diploma in Accounting, Time duration-1 year 8 months, 5 semesters, 64 credit hours,TK 17,285/- per semester (approx. without scholarship)"
+			]
+		},
+		{
+			"tag": "mba",
+			"patterns": [
+				"Tell me the details for MBA Program?",
+				"I want to know Masters of Business Administration Program?",
+				"MBA Program in                iub",
+				"MBA details"
+			],
+			"responses": [
+				"For Masters or 4 year Bachelor degree holders other than BBA, Time duration-2 years, 6 semesters, 63 credit hours (minimum,TK 70,220/- per semester without scholarship)"
+			]
+		},
+		{
+			"tag": "mBa",
+			"patterns": [
+				"Tell me the details for MBA Program?",
+				"I want to know MBA For BBA degree holders?",
+				"MBA Program",
+				"MBA details"
+			],
+			"responses": [
+				"MBA: For BBA degree holders,Time duration-1 year 8 months, 5 semesters, 51 credit hours,Tk 71,845/- per semester without scholarship)"
+			]
+		},
+		{
+			"tag": "mph",
+			"patterns": [
+				"Tell me the details for MPH Program?",
+				"I want to know  Master of Public Health program?",
+				"MPH Program",
+				"MPH details"
+			],
+			"responses": [
+				"MPH: Master of Public Health,Time duration-2 years, 4 semesters, 60 credit hours,TK 77,463/- per semester (approx. without scholarship)"
+			]
+		},
+		{
+			"tag": "admissionrequiement",
+			"patterns": [
+				"Tell me the details for admission?",
+				"I want to know about admission requirement?"
+			],
+			"responses": [
+				"Candidates with GPA 2.50 out of 5.00 in SSC, HSC or equivalent examinations will have to have accumulated GPA of 6.00 to qualify for admission,Only candidates with science (higher math with pass mark) in HSC or equivalent examinations qualify for admission in engineering programs,For GCE candidates, 2'A' Levels and 5 'O' Levels with minimum four 'B' grades and three 'C' grades are required for admission in bachelor's programs,Appeared candidates at the terminal level can apply for provisional admission but must fulfill the condition of provisional admission at the earliest."
+			]
+		},
+		{
+			"tag": "drutpalkantidas",
+			"patterns": [
+				"Can you please tell me details of Utpal Sir?",
+				"Tell me details about chairman of CSE Department ",
+				"I want to know about Dr. Utpal Kanti Das",
+				"Info of Utpal Kanti Das"
+			],
+			"responses": [
+				" Dr Utpal Kanti Das is a Professor & Chairman of CSE Department,His Room # 419, Ext #419,E-mail:ukd@iub.edu"
+			]
+		},
+		{
+			"tag": "rashedulislam",
+			"patterns": [
+				"Can you please tell me details of Rashedul Islam Sir?",
+				"Tell me details about Rashedul Islam of CSE Department ",
+				"I want to know about Rashedul Islam",
+				"Info of Rashedul Islam"
+			],
+			"responses": [
+				"Rashedul Islam is an Assistant Professor & Coordinator of CSE Department.His Room # 811,Ext # 452,E-mail rashed@iub.edu"
+			]
+		},
+		{
+			"tag": "shahinuralam",
+			"patterns": [
+				"Can you please tell me details of Shahinur Alam Sir?",
+				"Tell me details about Shahinur Alam of CSE Department ",
+				"I want to know about Shahinur Alam",
+				"Info of Shahinur Alam"
+			],
+			"responses": [
+				"Shahinur Alam is a Senior Lecturer & Coordinator of  BCSE. His Room # 420, Ext # 415 E-mail : shaheen@iub.edu"
+			]
+		},
+		{
+			"tag": "prof.drehteshamulhaque",
+			"patterns": [
+				"Can you please tell me details of Prof.Dr Ehteshamul Haque?",
+				"Tell me details about Prof.Dr Ehteshamul Haque of CSE Department ",
+				"I want to know about Prof.Dr Ehteshamul Haque",
+				"Info of Prof.Dr Ehteshamul Haque"
+			],
+			"responses": [
+				"Prof.Dr Ehteshamul Haquem is a Professor of  BCSE department. His Room # 217,Ext # 126,E-mail : ehaquebd@yahoo.com"
+			]
+		},
+		{
+			"tag": "mdalamgirbhuyan",
+			"patterns": [
+				"Can you please tell me details of Md Alamgir Bhuyan Sir?",
+				"Tell me information about Md Alamgir Bhuyan of CSE Department ?"
+			],
+			"responses": [
+				"Md Alamgir Bhuyan is Associate Professor & System Administrator ,MSc in CS (JU), BSc in CSE (iub) ,Room # 217  |  Ext # 126 ,E-mail : alamgir@iub.edu"
+			]
+		},
+		{
+			"tag": "drhasiburashidchayon",
+			"patterns": [
+				"Could you please tell me details of Dr Hasibur Rasid Chayon Sir?",
+				"Tell me information about Dr Hasibur Rasid Chayon of CSE Department ?"
+			],
+			"responses": [
+				"Dr.Hasibur Rashid Chayon is Associate Professor ,PhD (Malaysia), MSc (Greenwich, London) ,BSc in Computer (SUST),Room # 423   Ext # 166 ,E-mail : chayon@iub.edu"
+			]
+		},
+		{
+			"tag": "krisnadas",
+			"patterns": [
+				"Could you please tell me details of Krisna Das Sir?",
+				"Tell me information about Krisna Das of CSE Department ?"
+			],
+			"responses": [
+				"Krishna Das is Assistant Professor ,MSc in Enterprise Software Engg (UK),BCS (Pune, India),Professional Diploma in Business Management & Marketing (London,UK),Room # 514 Ext # 505,E-mail : krishna.das@iub.edu"
+			]
+		},
+		{
+			"tag": "mdsaidurrahman",
+			"patterns": [
+				"Could you please tell me details of Md Saidur Rahman Sir?",
+				"Tell me information about Md Saidur Rahman of CSE Department ?"
+			],
+			"responses": [
+				"Md Saidur Rahman MSc (EWU, Dhaka), BCSE (iub) Assistant Professor ",
+				"Room # 511 Ext # 226,E-mail : s.rahman@iub.edu,"
+			]
+		},
+		{
+			"tag": "arifaturrahman",
+			"patterns": [
+				"Could you please tell me details of Arifa Tur Rahman Mam?",
+				"Tell me information about Arifa Tur Rahman of CSE Department ?"
+			],
+			"responses": [
+				"Arifa Tur Rahman  is Assistant Professor MSc (JU),BCSE (iub),Room # 420 Ext # 414 E-mail : arifarahman@iub.edu"
+			]
+		},
+		{
+			"tag": "mdalomgirhossain",
+			"patterns": [
+				"Could you please tell me details of Md Alomgir hossain Sir?",
+				"Tell me information about Md Alomgir hossain of CSE Department ?"
+			],
+			"respones": [
+				"Md. Alomgir Hossain Assistant Professor MSc in CSE (JU) BCSE (iub)Room # 514 Ext # 504 E-mail : alomgir.hossain@iub.edu"
+			]
+		},
+		{
+			"tag": "rubayeaferdows",
+			"patterns": [
+				"Could you please tell me details of Rubayea Ferdows Ma'am?",
+				"Tell me information about Rubayea Ferdows of CSE Department ?"
+			],
+			"responses": [
+				"Rubayea Ferdows Assistant Professor MSc(IUT), BCSE (iub) Room # 715 Ext # 819 E-mail: rubayea@iub.edu"
+			]
+		},
+		{
+			"tag": "mmrakibulhasan",
+			"patterns": [
+				"Could you please tell me details of M M Rakibul hasan Sir?",
+				"Tell me information about M M Rakibul Hasan of CSE Department ?"
+			],
+			"responses": [
+				"M M Rakibul Hasan  is Assistant Professor MBA in MIS (DU),BCSE (iub),Room # 718 Ext # 524 ,E-mail : hasan.rakib@iub.edu"
+			]
+		},
+		{
+			"tag": "toyeereferdous",
+			"patterns": [
+				"Could you please tell me details of Toyeer E Ferdous Ma'am ?",
+				"Tell me information about Toyeer E Ferdows of CSE Department ?"
+			],
+			"responses": [
+				"Toyeer-E-Ferdous  is Assistant Professor MSc Engg in ISS (MIST) B.Sc (iub) Room # 714 Ext # 449 E-mail : toyeer@iub.edu"
+			]
+		},
+		{
+			"tag": "nusrathtabassum",
+			"patterns": [
+				"Could you please tell me details of Nusrath Tabassum?",
+				"Tell me information about Nusrath Tabassum of CSE Department ?"
+			],
+			"responses": [
+				"Nusrath Tabassum is Senior Lecturer B.Sc(CUET) Room # 812 Ext # 812 E-mail : nusrathtabassum_cse@iub.edu"
+			]
+		},
+		{
+			"tag": "tanzinatasnimbithi",
+			"patterns": [
+				"Could you please tell me details of Tanzina Tasnim Bithi?",
+				"Tell me information about Tanzina Tasnim Bithi of CSE Department ?"
+			],
+			"responses": [
+				"Tanzina Tasnim Bithi  is Senior Lecturer B.Sc(JU) ,Room # 715 Ext # 441 ,E-mail : tanzina_cse@iub.edu"
+			]
+		},
+		{
+			"tag": "suhalalamia",
+			"patterns": [
+				"Could you please tell me details of Suhala Lamia?",
+				"Tell me information about Suhala lamia of CSE Department ?"
+			],
+			"responses": [
+				"Suhala Lamia BCSE (iub) Senior Lecturer ,Room # 420 Ext # 411 ,E-mail : suhalalamia@iub.edu"
+			]
+		},
+		{
+			"tag": "msmoumitatasnim",
+			"patterns": [
+				"Could you please tell me details of Ms. Moumita Tasnim ma'am?",
+				"Tell me information about Ms. Moumita Tasnim of CSE Department ?"
+			],
+			"responses": [
+				"Ms. Moumitu Tasnim is Lecturer MSc (JU) Continue,BSc (JU) ,E-mail : moumitu.cse@iub.edu"
+			]
+		},
+		{
+			"tag": "mdhasibulislam",
+			"patterns": [
+				"Could you please tell me details of Md Hasibul Islam Sir?",
+				"Tell me information about Md Hasibul Islam of CSE Department ?"
+			],
+			"responses": [
+				"Md. Hasibul Islam is Lecturer BSc (iub) ,Room #813 "
+			]
+		},
+		{
+			"tag": "shakilahmed",
+			"patterns": [
+				"Could you please tell me details of  A.S.M Shakil Ahmed Sir?",
+				"Tell me information about A.S.M Shakil Ahmed CSE Department ?"
+			],
+			"responses": [
+				"Engr. A.S.M. Shakil Ahamed is Lecturer BSc (iub) ,Room #812 | Ext # 177,E-mail : sahamed.cse@iub.edu"
+			]
+		},
+		{
+			"tag": "suzadmohammad",
+			"patterns": [
+				"Could you please tell me details of Suzad Mohammad Sir?",
+				"Tell me information about Suzad Mohammad of CSE Department ?"
+			],
+			"responses": [
+				"Suzad Mohammad is BSc (IUT )Lecturer ,Room # 1012 Ext # 273 ,E-mail:suzad.cse@iub.edu"
+			]
+		},
+		{
+			"tag": "jubairahmednabin",
+			"patterns": [
+				"Could you please tell me details of Jubair Ahmed nabin Sir?",
+				"Tell me information about Jubair Ahmed Nabin of CSE Department ?"
+			],
+			"responses": [
+				" Jubair Ahmed Nabin BSc (CUET) Lecturer ,Room # 813 |  Ext # ,E-mail: jahmed.cse@iub.edu"
+			]
+		},
+		{
+			"tag": "mozaffaralamchowdhury",
+			"patterns": [
+				"Could you please tell me details of Mazaffar Alam Chowdhury Sir?",
+				"Tell me information about Mozaffar Alam of BBA Department ?"
+			],
+			"responses": [
+				"Mozaffar Alam Chowdhury Associate Professor & Dean (in charge) CBA MA in Economics (USA),MBA in Int'l Bus (UK)BBA in Finance (CU),Room # 317 Ext # 318 ,E-mail: mchowdhury@iub.edu"
+			]
+		},
+		{
+			"tag": "shaikhsabbirahmedwaliullah",
+			"patterns": [
+				"Could you please tell me details of Shaikh Sabbir Ahmed Waliullah Sir?",
+				"Tell me information about Shaikh Sabbir Ahmed  of BBA Department ?"
+			],
+			"responses": [
+				"Shaikh Sabbir Ahmed Waliullah Assistant Professor and Coordinator of the MBA Program MBA(UK),BBA(Rajshahi University) ,Room # 522 Ext # 517, E-mail : shaikh.waliullah@iub.edu"
+			]
+		},
+		{
+			"tag": "abdurrab",
+			"patterns": [
+				"Can you please tell me details of our Vice Chancellor Dr. Abdur Rab Sir?",
+				"Tell me information about Professor Dr. Abdur Rab of BBA  Department ?"
+			],
+			"responses": [
+				" Professor Dr. Abdur Rab ,He is Professor Dr O Sc (Belgrade) MBA (Indiana, USA) M Com in Mgt (DU), CMC(Australia)"
+			]
+		},
+		{
+			"tag": "lutfarrahman",
+			"patterns": [
+				"Can you please tell me details of Md. Lutfar Rahman Sir?",
+				"Tell me information about Md. Lutfar Rahman of BBA Department ?"
+			],
+			"responses": [
+				"Prof Dr. Md. Lutfar Rahman Professor & Registrar PhD (Malaysia), MBA (IBA, DU), BSc (DU, Dhaka) Room # 223   Ext # 114 ,E-mail : lutfarrahman@iub.edu"
+			]
+		},
+		{
+			"tag": "khaledshamschisty",
+			"patterns": [
+				"Can you please tell me details of Dr. Khaled Shams Chisty Sir?",
+				"Tell me information about Dr.Khaled Shams Chisty of BBA Department ?"
+			],
+			"responses": [
+				"Dr. Khaled Shams Chisty Associate Professor PhD (Malaysia University), MBA, BBA (CSU, Georgia),Room # 301 Ext # 151 ,E-mail : chisty@iub.edu"
+			]
+		},
+		{
+			"tag": "abdullahalyousufkhan",
+			"patterns": [
+				"Can you please tell me details of Abdullah Al Yousuf Khan Sir?",
+				"Tell me information about Abdullah Al Yousuf Khan of BBA Department ?"
+			],
+			"responses": [
+				"Abdullah Al Yousuf Khan Associate Professor MBA in Acc & Fin (Dublin, Ireland),PGD (UK) MCom, BCom (DU) ,Room # 409 | Ext # 484 ,E-mail : aaykhan@iub.edu"
+			]
+		},
+		{
+			"tag": "swapankumarsaha",
+			"patterns": [
+				"Can you please tell me details of Swapan Kumar Saha Sir?",
+				"Tell me information about Swapan Kumar Saha of BBA Department ?"
+			],
+			"responses": [
+				"Swapan Kumar Saha Assistant Professor MBA in Accounting (CQU, Australia) BBA in Marketing (EWU, Dhaka),Room # 415   Ext # 405,E-mail : swapan@iub.edu"
+			]
+		},
+		{
+			"tag": "kamruzzaman",
+			"patterns": [
+				"Can you please tell me details of Kamruzzaman Sir?",
+				"Tell me information about Kamruzzaman of BBA Department ?"
+			],
+			"responses": [
+				"Mohammad Kamruzzaman Assistant Professor MBA in HRM, (UK) , BBA (UK) ,Room # 301   Ext # 240 ,E-mail : mkamruzzaman@iub.edu"
+			]
+		},
+		{
+			"tag": "zahirrayhanselim",
+			"patterns": [
+				"Can you please tell me details of Zahir Rayhan Selim Sir?",
+				"Tell me information about Zahir Rayhan Selim of CSE Department ?"
+			],
+			"responses": [
+				"Zahir Rayhan Selim Assistant Professor MBA (UK), BBA (USA), Postgraduate Diploma (UK) ,Room # 424 Ext # 479,E-mail : zahir.rayhan@iub.edu"
+			]
+		},
+		{
+			"tag": "kamalhossain",
+			"patterns": [
+				"Can you please tell me details of Kamal Hossain Sir?",
+				"Tell me information about Kamal Hossain of BBA Department ?"
+			],
+			"responses": [
+				"Kamal Hossain Assistant Professor MIS (Australia) BCOM ((Australia),Room #514 |  Ext #505 ,E-mail: kmlhosn.cba@iub.edu"
+			]
+		},
+		{
+			"tag": "jameeahmad",
+			"patterns": [
+				"Can you please tell me details of Jamee Ahmed Sir?",
+				"Tell me information about Jamee Ahmed of BBA Department ?"
+			],
+			"responses": [
+				"Jamee Ahmad Assistant Professor MBA in HRM (Australia) BBA in HRM (AIUB, Dhaka),Room # 812 | Ext # 822,E-mail : jamee.ahmad@iub.edu"
+			]
+		},
+		{
+			"tag": "kazimdfahimahmed",
+			"patterns": [
+				"Can you please tell me details of kazi Md. Fahim Ahmed Sir?",
+				"Tell me information about Kazi Md. Fahim Ahmed of BBA Department ?"
+			],
+			"responses": [
+				"Kazi Md. Fahim Ahmed Assistant Professor MBA (UK), BA Hons in Business Studies (UK),Room # 811   Ext # 810 ,E-mail : kazi.ahmed@iub.edu"
+			]
+		},
+		{
+			"tag": "naymaiftekhar",
+			"patterns": [
+				"Can you please tell me details of Nayma Iftekhar Ma'am?",
+				"Tell me information about Nayma Iftekhar of BBA Department ?"
+			],
+			"responses": [
+				"Nayma Iftekhar Assistant Professor MPM (KDI School of Public Policy and Management (South Korea),BBA(iub),Room # 1013 Ext # 292,E-mail: iftakhar.nayma@iub.edu "
+			]
+		},
+		{
+			"tag": "mdsohelrana",
+			"patterns": [
+				"Can you please tell me details of Dr. Md.Sohel Rana Sir?",
+				"Tell me information about Dr. Md. Sohel Rana  of BBA Department ?"
+			],
+			"responses": [
+				"Dr. Md. Sohel Rana PhD (Malaysia) MBA (RU), BBA (RU) Assistant Professor ,Room # 923   Ext # 346 ,E-mail: sohelrana.cba@iub.edu"
+			]
+		},
+		{
+			"tag": "dr.mohammadmoshiurrahman",
+			"patterns": [
+				"Can you please tell me details of Dr. Mohammad Moshiur Rahman Sir?",
+				"Tell me information about Dr. Mohammad Moshiur Rahman of BBA Department ?"
+			],
+			"responses": [
+				"Dr. Mohammad Moshiur Rahman PhD (Malaysia) MBA (DU) , BBA (Malaysia) Assistant Professor,Room # 923 Ext # 211 ,E-mail: moshiur.cba@iub.edu"
+			]
+		},
+		{
+			"tag": "hasanmoudud",
+			"patterns": [
+				"Can you please tell me details of hasanmoudud Sir?",
+				"Tell me information about hasanmoudud of BBA Department ?"
+			],
+			"responses": [
+				"Hasan Moudud Senior Lecturer MBA(Malaysia) BBA(Malaysia),Room # 716 Ext # 445,E-mail : hmoudud.cba@iub.edu"
+			]
+		},
+		{
+			"tag": "drratonkumarnondy",
+			"patterns": [
+				"Can you please tell me details of Dr. Raton Kumar Nondy Sir?",
+				"Tell me information about Dr. Raton Nondy Chairman of EEE Department ?"
+			],
+			"responses": [
+				"Dr. Raton Kumar Nondy Associate Professor & Chair PhD (IIT)India, MTech(India), B.Sc(DUET),Room # 424 | Ext # 586 ,E-mail: raton.nondy@iub.edu"
+			]
+		},
+		{
+			"tag": "rezaulkarim",
+			"patterns": [
+				"Can you please tell me details of S.M. Rezaul Karim  Sir?",
+				"Tell me information about Rezaul Karim of EEE Department ?"
+			],
+			"responses": [
+				"S. M. Rezaul Karim Assistant Professor & Coordinator M.Sc (DU), BSEEE (iub) ,Room # 523  | Ext # 523,E-mail: rkarim@iub.edu"
+			]
+		},
+		{
+			"tag": "drbishwajitsaha",
+			"patterns": [
+				"Can you please tell me details of Dr.Bishwajit Saha Sir?",
+				"Tell me information about Dr. Bishwajit Saha of BBA Department ?"
+			],
+			"responses": [
+				"Dr. Bishwajit Saha Professor PhD (South Korea), MSc, BSc (DUET) ,Room # 121   Ext # 115 ,Cell : 01818240545,E-mail : bsaha@iub.edu"
+			]
+		},
+		{
+			"tag": "mdazizulhuq",
+			"patterns": [
+				"Can you please tell me details of Prof Dr Md Aziz ul Huq Sir?",
+				"Tell me information about Prof Dr Md Aziz ul Haq of EEE Department ?"
+			],
+			"responses": [
+				"Prof Dr Md Aziz ul Huq Professor PhD (EEE, DU)M Phil, MSc, BSc Hons (DU),Room # 413   Ext # 496,Cell: 01713 018164,E-mail: azizbd2000@iub.edu"
+			]
+		},
+		{
+			"tag": "drkhandakermdraisulamin",
+			"patterns": [
+				"Can you please tell me details of Dr.Khandaker Md. Raisul Amin Sir?",
+				"Tell me information about Dr. Khandaker Md. Raisul Amin of EEE Department ?"
+			],
+			"responses": [
+				"Dr. Khandaker Md. Raisul Amin Associate Professor PhD (Japan), PGD in IT (RU), MSc, BSc (RU),Room # 412   Ext # 494 ,Cell : 01611 275454 ,E-mail : kmr.amin@iub.edu"
+			]
+		},
+		{
+			"tag": "sumanchowdhury",
+			"patterns": [
+				"Can you please tell me details of Suman Chowdhury Sir?",
+				"Tell me information about Suman Chowdhury of EEE Department ?"
+			],
+			"responses": [
+				"Suman  Chowdhury Assistant Professor MSc (DUET) BSc in EEE (KUET) ,Room # 415   Ext # 403,E-mail : suman@iub.edu"
+			]
+		},
+		{
+			"tag": "muradkabirnipun",
+			"patterns": [
+				"Can you please tell me details of Murad Kabir Nipun Sir?",
+				"Tell me information about Murad Kabir Nipun of EEE Department ?"
+			],
+			"responses": [
+				"Murad Kabir Nipun Assistant Professor MSc in EE (LU, Sweden) BSc in EEE (AIUB, Dhaka),Room # 512 Ext # 229,E-mail: nipun.murad@iub.edu"
+			]
+		},
+		{
+			"tag": "drtawfikurrahman",
+			"patterns": [
+				"Can you please tell me details of Dr.Tawfikur Rahman Sir?",
+				"Tell me information about Dr Tawfikur Rahman of EEE Department ?"
+			],
+			"responses": [
+				"Dr. Tawfikur Rahman Assistant Professor Post Doc (IIUM, Malaysia) PhD (IIUM, Malaysia)MSc (IIUM, Malaysia)BSEEE (iub),Room # 817  Ext # 813,E-mail: tawfikr.eee@iub.edu"
+			]
+		},
+		{
+			"tag": "drakmalamgir",
+			"patterns": [
+				"Can you please tell me details of Dr. A K M Alamgir Sir?",
+				"Tell me information about Dr. A K M Alamgir of EEE Department ?"
+			],
+			"responses": [
+				"Dr. A K M Alamgir PhD (Japan) MSc (Japan) , BSc (RUET) Associate Professor & Additional Director, IQAC,Room # 914 | Ext # 212,E-mail: dralamgir.eee@iub.edu"
+			]
+		},
+		{
+			"tag": "drmdrukonuzzaman",
+			"patterns": [
+				"Can you please tell me details of Dr. Md. Rukonuzzaman Sir?",
+				"Tell me information about Dr. Md. Rukonuzzaman of BBA Department ?"
+			],
+			"responses": [
+				"Dr.Md.Rukonuzzaman Associate Professor PhD ( Yamaguchi University , Japan )MS (UTM , Malaysia) , BSc ( BUET ),Room #   Ext #,E-mail : drukonuzzaman@iub.edu"
+			]
+		},
+		{
+			"tag": "shaikhershadhossain",
+			"patterns": [
+				"Can you please tell me details of Shaikh Ershad Hossain  Sir?",
+				"Tell me information about Shaikh Ershad Hossain Chairman of BATHM Department ?"
+			],
+			"responses": [
+				"Shaikh Ershad Hossain Assistant Professor & Chair MDS BD, BA UK, CHP USA,Room # 315,   Ext # 313,Email : sehossain@iub.edu"
+			]
+		},
+		{
+			"tag": "farzanaalferdous",
+			"patterns": [
+				"Can you please tell me details of Farzana Al Ferdous Sir?",
+				"Tell me information about Farzana Al Ferdous  Coordinator of BATHM Department ?"
+			],
+			"responses": [
+				"Farzana Al Ferdous Associate Professor & Coordinator MSc, BSc Hons. in Chemistry (CU), DTHM (Malaysia),Room # 315, Ext # 314,Email: faferdous@iub.edu"
+			]
+		},
+		{
+			"tag": "mohammadabuhoraira",
+			"patterns": [
+				"Can you please tell me details of Mohammad Abu Horaira Sir?",
+				"Tell me information about Mohammad Abu Horaira of BATHM Department ?"
+			],
+			"responses": [
+				"Mohammad Abu Horaira Associate Professor & Sports Coordinator MBA, BATHM (iub), DHTM (Darjeeling, India),Room # 416, Ext # 407 ,Email: horaira@iub.edu"
+			]
+		},
+		{
+			"tag": "mohammadmofasserulislam",
+			"patterns": [
+				"Can you please tell me details of Mohammad Mofasserul Islam Sir?",
+				"Tell me information about Mohammad Mofasserul Islam of BATHM Department ?"
+			],
+			"responses": [
+				"Mohammad Mofasserul Islam Assistant Professor PGDHRM (BIM), MBA (BUP), BATHM (iub),Room # 813, Ext # 811,Email: mofasserul@iub.edu"
+			]
+		},
+		{
+			"tag": "mrshafiqulislam",
+			"patterns": [
+				"Can you please tell me details of Mr. Shafiqul Islam Sir?",
+				"Tell me information about Mr. Shafiqul Islam of BATHM Department ?"
+			],
+			"responses": [
+				"Mr.Shafiqul Islam EMBA (BRAC) BATHM (iub) Assistant Professor ,Room # 1114 Ext # 331 ,E-mail: shafiqul.cthm@iub.edu"
+			]
+		},
+		{
+			"tag": "sumyiaakter",
+			"patterns": [
+				"Can you please tell me details of sumyia akter Ma'am?",
+				"Tell me information about Sumyia Akter of BATHM Department ?"
+			],
+			"responses": [
+				"Sumyia Akter BATHM (iub) Lecturer ,Room # 923 Ext # 347,E-mail : sumyia.cthm@iub.edu"
+			]
+		},
+		{
+			"tag": "drmdshohidullahmiah",
+			"patterns": [
+				"Can you please tell me details of Md. Shohidullah Miah Sir?",
+				"Tell me details about Md. Shohidullah dean of Agriculture Department"
+			],
+			"responses": [
+				"He is Professor & Dean PhD in Env Biotech (Malaysia) MSc in Aquatic Ecology (BAU), BSc Hon's in Fisheries (BAU), Post-Doctoral Fellow-Japan, Post-Doctoral Fellow-Japan ,Room # 232 Ext # 259 ,E-mail: drshohidullah@iub.edu"
+			]
+		},
+		{
+			"tag": "drmahannan",
+			"patterns": [
+				"Can you please tell me details of Dr. MA Hannan Sir?",
+				"Tell me details about chairman of MA Hannan Department?"
+			],
+			"responses": [
+				"He is Professor (Special) & Chair PhD (OSU, USA) MS (AUB, Lebanon) MSc, BSc (DU) ,Room # 124 | Ext # ,E-mail: hannan@iub.edu"
+			]
+		},
+		{
+			"tag": "drmohammadrezaulkarim",
+			"patterns": [
+				"Can you please tell me details of Dr. Mohammad Rezaul Karim Sir?",
+				"Tell me details about coordinator of Agriculture Department"
+			],
+			"responses": [
+				"He is Assistant Professor & Coordinator PhD (Plant Nutrition) from University of Chinese Academy of Sciences (UCAS),MSc (Agronomy) from Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU),BSc.Ag from Sher-e-Bangla Agricultural University (SAU),Room # 411 Ext # 491,E-mail: rezaul.ag@iub.edu "
+			]
+		},
+		{
+			"tag": "drmohammedataurrahman",
+			"patterns": [
+				"Can you please tell me details of Dr. Mohammed Ataur Rahman  Sir?",
+				"Tell me details about Dr. Mohammed Ataur Rahman of Agriculture Department"
+			],
+			"responses": [
+				"Dr. Mohammed Ataur Rahman Professor (Special) PhD (ANU, USA), MSc, BSc (DU) MSc, Postgraduate Diploma (UK),Room # 107 | Ext # 134,E-mail: marahman@iub.edu"
+			]
+		},
+		{
+			"tag": "dranilchandrabasak",
+			"patterns": [
+				"Can you please tell me details of Dr. Anil Chandra Basak  Sir?",
+				"Tell me details about Dr. Anil Chandra Basak Rahman of Agriculture Department"
+			],
+			"responses": [
+				"He is Professor (Special) Semester Faculty PhD (ANU, USA), MSc, BSc (DU) MSc, Postgraduate Diploma (UK),Room # 810 | Ext # 592,E-mail:acbasak@iub.edu"
+			]
+		},
+		{
+			"tag": "drismailhossain",
+			"patterns": [
+				"Can you please tell me details of Dr. Ismail Hossain  Sir?",
+				"Tell me details about Dr. Ismail Hossain of Agriculture Department"
+			],
+			"responses": [
+				"Dr. Ismail Hossain Professor (Special) Ph.D(Giessen, Germany)MSc, BSc Hons (BAU),Room # 516 |  Ext # 545 ,E-mail: ismail.hossain@iub.edu"
+			]
+		},
+		{
+			"tag": "drmdsalimullahkhan",
+			"patterns": [
+				"Can you please tell me details of Dr. Md. Salim Ullah Khan  Sir?",
+				"Tell me details about Dr. Md. Salim Ullah Khan Eusufzai of Agriculture Department"
+			],
+			"responses": [
+				"Dr. Md. Salim Ullah Khan Eusufzai Professor College of Agricultural Sciences ,Cell: 01716967725 ,Email: dr.eusufzai@iub.edu .Specialized: Farm Power Mechanics and Irrigation Technology"
+			]
+		},
+		{
+			"tag": "drfarjanasultana",
+			"patterns": [
+				"Can you please tell me details of Dr. Farjana Sultana Ma'am  ?",
+				"Tell me details about Dr. Farjana Sultana Ma'am of Agriculture Department"
+			],
+			"responses": [
+				"Dr Farjana Sultana Associate Professor & Chair of Complaint Committee PhD (Japan) MS(Japan), B.Sc Ag Hons (BAU) ,Room #1117 |  Ext # 263,Email- farjana1s@iub.edu"
+			]
+		},
+		{
+			"tag": "drshailasharmin",
+			"patterns": [
+				"Can you please tell me details of Dr. Shaila Sharmin Ma'am?",
+				"Tell me details about Dr. Shaila Sharmin Ma'am of Agriculture Department"
+			],
+			"responses": [
+				"Dr Shaila Sharmin Associate Professor PhD (Japan) MS, BScAg Hons (BAU), Room # 709 Ext # 416 ,E-mail: shaila.sharmin@iub.edu"
+			]
+		},
+		{
+			"tag": "drmrehandastagir",
+			"patterns": [
+				"Can you please tell me details of Dr. M Rehan Dastagir   Sir?",
+				"Tell me details about Dr. M Rehan dastagir of Agriculture Department"
+			],
+			"responses": [
+				"Dr M Rehan Dastagir Assistant Professor PhD (Japan) M Sc, BSc Hons (DU),Room # 517 | Ext # 527 ,Email- rdastagir@iub.edu"
+			]
+		},
+		{
+			"tag": "drferdousahmed",
+			"patterns": [
+				"Can you please tell me details of Dr. Ferdous ahmed  Sir?",
+				"Tell me details about Dr. Ferdous Ahmed of Agriculture Department"
+			],
+			"responses": [
+				"Dr. Ferdous Ahmed Assistant Professor &Assistant Proctor & Assistant Director Institute of SDG Studies Ph.D. Post Doc (UM, Malaysia) MSc, BSc Hons (RU),Room # 301 | Ext # 862,Email: ferdous.ahmed@iub.edu"
+			]
+		},
+		{
+			"tag": "drabulkhair",
+			"patterns": [
+				"Can you please tell me details of Dr. Abul Khair Sir?",
+				"Tell me details about Dr. Abul Khair of Agriculture Department"
+			],
+			"responses": [
+				"Dr. Abul Khair Assistant Professor PhD(BAU) M.S(BAU),DVM(SU) ,Room # 415 |  Ext # 406 ,E-mail : dakhair@iub.edu"
+			]
+		},
+		{
+			"tag": "drsaymaakhter",
+			"patterns": [
+				"Can you please tell me details of Dr. Sayma Akhter  Sir?",
+				"Tell me details about Dr. Sayma akhter of Agriculture Department"
+			],
+			"responses": [
+				"Dr. Sayma Akhter Assistant Professor PhD (UK) MSc (Italy),MSc(SUST), BSc(SUST),Room # 415 Ext # 404,E-mail: sayma.akhter@iub.edu"
+			]
+		},
+		{
+			"tag": "drfahimahmed",
+			"patterns": [
+				"Can you please tell me details of Dr. Fahim Ahmed Sir?",
+				"Tell me details about Dr. Fahim Ahmed of Agriculture Department"
+			],
+			"responses": [
+				"Dr. Fahim Ahmed Assistant Professor PhD (Malaysia) MSc (BAU) , BSc (BAU),Room # 716 Ext # 539,E-mail: fahimbau@gmail.com"
+			]
+		},
+		{
+			"tag": "drswapankumarroy",
+			"patterns": [
+				"Can you please tell me details of Dr. Swapan kumar roy Sir?",
+				"Tell me details about Dr. Swapan Kumar Roy of Agriculture Department"
+			],
+			"responses": [
+				"Dr. Swapan Kumar Roy Assistant Professor PhD in Agriculture (Chungbuk National University, Cheongju-si, Korea),MS in Biotechnology (BAU),B.Sc. in Agriculture (PSTU),Room # 614 Ext # 165,E-mail: swapan.kumar@iub.edu"
+			]
+		},
+		{
+			"tag": "drmossatanamikanasrin",
+			"patterns": [
+				"Can you please tell me details of Dr. Mossat Anamika Nasrin  Sir?",
+				"Tell me details about Dr. Mossat Anamika Nasrin Rahman of Agriculture Department"
+			],
+			"responses": [
+				"Dr. Mossat.Anamika Nasrin Assistant Professor PhD (BAU) MSc, BSc Hons (BAU),Room # 811 Ext # 203,E-mail : anamika.nasrin@iub.edu"
+			]
+		},
+		{
+			"tag": "drmariymsultanamarry",
+			"patterns": [
+				"Can you please tell me details of Dr. Mariym Sultana Marry  Sir?",
+				"Tell me details about Dr. Mariym Sultana Marry  of Agriculture Department"
+			],
+			"responses": [
+				"Dr Mariym Sultana Marry Assistant Professor PhD (Japan) MSc (JU) , BSc (JU),Room # 1015  |  Ext #,Email: dmrry.env@iub.edu"
+			]
+		},
+		{
+			"tag": "drabuyousufhossain",
+			"patterns": [
+				"Can you please tell me details of Dr. Abu Yousuf Hossain  Sir?",
+				"Tell me details about Dr. Mohammed Ataur Rahman of Agriculture Department"
+			],
+			"responses": [
+				"Dr. Abu Yousuf Hossin Assistant Professor Ph.D. (Japan) MSc (UODA), BSAg (iub) ,Room # 522 | Ext # 520,E-mail: abuyousuf.ag@iub.edu"
+			]
+		},
+		{
+			"tag": "drbijoylalbasu",
+			"patterns": [
+				"Can you please tell me details of Dr Bijoy Lal Basu?",
+				"Tell me information about Dr Bijoy Lal Basu of English Department ?"
+			],
+			"responses": [
+				"Dr Bijoy Lal Basu Adjunct Faculty and Adviser  Ph.D in Language, Discourse and Communication (King's College London) M.A. in Applied Linguistics & ELT (University of Dhaka),Room # 321 Ext # 320,E-mail: bijoy.basu@iub.edu"
+			]
+		},
+		{
+			"tag": "drmdmomtazurrahman",
+			"patterns": [
+				"Can you please tell me details of Dr Md Momtazur Rahman?",
+				"Tell me information about Dr Md Momtazur Rahman of English Department ?"
+			],
+			"responses": [
+				"Dr Md Momtazur Rahman Professor and Chair PhD in English Language Studies (National University of Malaysia) MA in English Language (Putra University of Malaysia),Room # 106 Ext # 155,Email: momtazur@iub.edu"
+			]
+		},
+		{
+			"tag": "mdkawseruddin",
+			"patterns": [
+				"Can you please tell me details of Md Kawser Uddin Sir?",
+				"Tell me information about Md Kawser Uddin of English Department ?"
+			],
+			"responses": [
+				"Md Kawsar Uddin Associate Professor & Coordinator (for the department) M A in English (JU), BA Hons in English (JU),Room # 106 Ext # 134,E-mail: ukawsar@iub.edu"
+			]
+		},
+		{
+			"tag": "mdforhadhossain",
+			"patterns": [
+				"Can you please tell me details of Md Forhad Hossain?",
+				"Tell me information about Md Forhad Hossain Coordinator of English Department ?"
+			],
+			"responses": [
+				"Md Forhad Hossain Associate Professor & Coordinator (for proficiency courses) MA in Applied Ling & ELT (DU) MBA in MIS (DU) BA (Hons.) in English(DU),Room # 108 Ext # 277,E-mail: forhadhossain@iub.edu"
+			]
+		},
+		{
+			"tag": "wgcdrkaziabdulmatin",
+			"patterns": [
+				"Can you please tell me details of Wg Cdr Kazi Abdul Matin?",
+				"Tell me information about Wg Cdr Kazi Abdul Matin of English Department ?"
+			],
+			"responses": [
+				"Wg Cdr Kazi Abdul Matin (Retd) Professor (Special) MA, BA Hons (DU), MBA in HRM (AIUB),Room # 413 Ext # 495,E-mail: matinka@iub.edu"
+			]
+		},
+		{
+			"tag": "abutahermohammadsirajulalom",
+			"patterns": [
+				"Can you please tell me details of Abu Taher Mohammad Sirajul Alom Sir ?",
+				"Tell me information about Abu Taher Mohammad Sirajul Alom of English Department ?"
+			],
+			"responses": [
+				"Abu Taher Mohammad Sirajul Alom MA, (JU), BA Hons (JU) Associate Professor,Room # 523 Ext #,E-mail: atmsalom@iub.edu"
+			]
+		},
+		{
+			"tag": "mohammadsarkarmahmod",
+			"patterns": [
+				"Can you please tell me details of Mohammad Sarkar Mahmod Sir?",
+				"Tell me information about Mohammad Satkar Mahmod of English Department ?"
+			],
+			"responses": [
+				"Mohammad Sakar Mahmod Associate Professor MA in English (MIU, Dhaka) BA Hons in English (AAU, Egypt ),Room #314 Ext # 516,E-mail: msmahmod@iub.edu"
+			]
+		},
+		{
+			"tag": "arifulinsanemon",
+			"patterns": [
+				"Can you please tell me details of Ariful Insan Emon Sir ?",
+				"Tell me information about Ariful Insan Emon  of English Department ?"
+			],
+			"responses": [
+				"Ariful Insan Emon Associate Professor MA, in English (JU), BA Hons in English (JU) ,Room # 812 Ext # 208,E-mail: insan@iub.edu"
+			]
+		},
+		{
+			"tag": "mdjashimuddin",
+			"patterns": [
+				"Can you please tell me details of Md Jashim Uddin Sir ?",
+				"Tell me information about Md Jashim Uddin of English Department ?"
+			],
+			"responses": [
+				"Md Jashim Uddin Associate Professor MA (DU), MA (DU) Room # 313 Ext # 325 E-mail: jashim.uddin@iub.edu"
+			]
+		},
+		{
+			"tag": "mdsadekulislam",
+			"patterns": [
+				"Can you please tell me details of Md Sadekul Islam Sir ?",
+				"Tell me information about Md Sadekul Islam of English Department ?"
+			],
+			"responses": [
+				"Md Sadekul Islam Associate Professor & Deputy Director, International Programs MA, (DU), BA Hons (DU),Room # 130 Ext # 122,E-mail: sadekul@iub.edu"
+			]
+		},
+		{
+			"tag": "akmaminurrashid",
+			"patterns": [
+				"Can you please tell me details of A K M Aminur Rashid ?",
+				"Tell me information about A K M Aminur Rashid of English Department ?"
+			],
+			"responses": [
+				"A K M Aminur Rashid Assistant Professor Master (Sweden), MA, BA in English (NU),Room # 707 Ext # 7078,E-mail: akmaminur.rashid@iub.edu"
+			]
+		},
+		{
+			"tag": "fawziayakub",
+			"patterns": [
+				"Can you please tell me details of Fawzia Yakub Sir ?",
+				"Tell me information about Fawzia Yakub of English Department ?"
+			],
+			"responses": [
+				"Fawzia Yakub Assistant Professor MA(JU), BA Hons (JU),Room # 313 Ext # 324,E-mail: fawzia@iub.edu"
+			]
+		},
+		{
+			"tag": "habeebfarukkhan",
+			"patterns": [
+				"Can you please tell me details of Habeeb Faruk Khan Sir?",
+				"Tell me information about Habeeb Faruk Khan of English Department ?"
+			],
+			"responses": [
+				"Habeeb Faruk Khan Assistant Professor MA in Linguistics and ELT( JU), BA Hons English Literature (JU),Room # 522 Ext # 518,E-mail: habeeb_farukkhan@iub.edu"
+			]
+		},
+		{
+			"tag": "mdkawserahmed",
+			"patterns": [
+				"Can you please tell me details of Md. Kawser Ahmed?",
+				"Tell me information about  Md. Kawser Ahmed of English Department ?"
+			],
+			"responses": [
+				"Md. Kawser Ahmed MA (DU), BA (DU) Assistant Professor,Room # 922 Ext # 337,E-mail: kawser.ahmed@iub.edu"
+			]
+		},
+		{
+			"tag": "lulualmarzan",
+			"patterns": [
+				"Can you please tell me details of Lulu Al Marzan?",
+				"Tell me information about Lulu Al Marzan of English Department ?"
+			],
+			"responses": [
+				"Lulu-Al-Marzan Assistant Professor MA in English Literature (DU), BA Hons in English (DU),Room # 613 Ext # 611,E-mail: marzan@iub.edu"
+			]
+		},
+		{
+			"tag": "mdnurulhaque",
+			"patterns": [
+				"Can you please tell me details of Md. Nurul Haque?",
+				"Tell me information about Md. Nurul Haque of English Department ?"
+			],
+			"responses": [
+				"Md. Nurul Haque MA (DU) BA Hons (DU) Assistant Professor,Room # 1114 "
+			]
+		},
+		{
+			"tag": "mdmasudurrahman",
+			"patterns": [
+				"Can you please tell me details of Md Masudur Rahman Sir ?",
+				"Tell me information about Md. Masudur Rahman of English Department ?"
+			],
+			"responses": [
+				"Md Masudur Rahman Senior Lecturer MA(JU), BA Hons in English (JU),Room # 813 Ext # 594,E-mail: imrankazi@iub.edu"
+			]
+		},
+		{
+			"tag": "sheikhsafullahahmed",
+			"patterns": [
+				"Can you please tell me details of Sheikh Saifullah Ahmed?",
+				"Tell me information about Sheikh Saifullah Ahmed of English Department ?"
+			],
+			"responses": [
+				"Sheikh Saifullah Ahmed MA (KU), BA (KU) Lecturer ,Room # 716 Ext # 800,E-mail: ahmed.saifullah@iub.edu"
+			]
+		},
+		{
+			"tag": "suhaferdous",
+			"patterns": [
+				"Can you please tell me details of Suha Ferdous?",
+				"Tell me information about Suha Ferdous of English Department ?"
+			],
+			"responses": [
+				"Suha ferdous MA (DU), BA Hons (DU) Lecturer ,Room # 1015 Ext # 265,E-mail: sferdous.eng@iub.edu"
+			]
+		},
+		{
+			"tag": "mdzubairrahman",
+			"patterns": [
+				"Can you please tell me details of Md. Zubair Rahman?",
+				"Tell me information about Md. Zubair Rahman of English Department ?"
+			],
+			"responses": [
+				"Md. Zubair Rahman MA, (JU), BA Hons (JU) Lecturer,Room # 1011 | Ext #,E-mail: zubair.de@iub.edu"
+			]
+		},
+		{
+			"tag": "nusratkhan",
+			"patterns": [
+				"Can you please tell me details of Nusrat Khan?",
+				"Tell me information about Nusrat Khan of English Department ?"
+			],
+			"responses": [
+				"Nushat Khan MA (BUP), BA Hons (BUP) Lecturer ,Room # 713, Ext # 443 ,E-mail: nushat.eng@iub.edu"
+			]
+		},
+		{
+			"tag": "hmnazmulalam",
+			"patterns": [
+				"Can you please tell me details of HM Nazmul Alam Sir?",
+				"Tell me information about HM Nazmul Alam  of English Department ?"
+			],
+			"responses": [
+				"HM Nazmul Alam MA (DU), BA Hons (DU) Lecturer ,Room # 523 Ext # 526,E-mail: nazmulalam.eng@iub.edu"
+			]
+		},
+		{
+			"tag": "mohammadalamgirsikdar",
+			"patterns": [
+				"Can you please tell me details of Mohammad Alamgir Sikdar ?",
+				"Tell me information about Mohammad Alamgir Sikdar of English Department ?"
+			],
+			"responses": [
+				"Mohammad Alamgir Sikder MA (JU), BA Hons (JU) Lecturer,Room # 511 Ext # 227,E-mail : asikder.eng@iub.edu"
+			]
+		},
+		{
+			"tag": "firozakanda",
+			"patterns": [
+				"Can you please tell me details of Firoz Akanda?",
+				"Tell me information about Firoz Akanda of English Department ?"
+			],
+			"responses": [
+				"Firoz Akanda MA (DU), BA Hons (DU) Lecturer ,Room # 811 Ext # 205,E-mail: akanda.doe@iub.edu"
+			]
+		},
+		{
+			"tag": "mrraffatarmanislam",
+			"patterns": [
+				"Can you please tell me details of Mr. Raffat Arman Islam ?",
+				"Tell me information about Mr. Raffat Arman Islam of English Department ?"
+			],
+			"responses": [
+				"Mr. Raffat Arman Islam Lecturer MA (DU) BA Hons (DU) ,Room # 713 Ext ,#Email: raffatarman.eng@iub.edu"
+			]
+		},
+		{
+			"tag": "dilaradilshad",
+			"patterns": [
+				"Can you please tell me details of Dilara Dilshad?",
+				"Tell me information about Dilara Dilshad of English Department ?"
+			],
+			"responses": [
+				"Dilara Dilshad MA (KU), BA Hons (KU) Lecturer,Room # 1015 Ext # 274,E-mail: dilshaddilara.eng@iub.edu"
+			]
+		},
+		{
+			"tag": "jannatulferdous",
+			"patterns": [
+				"Can you please tell me details of Jannatul Ferdous Ma'am?",
+				"Tell me information about Jannatul Ferdous of English Department ?"
+			],
+			"responses": [
+				"Jannatul Fardous MA (BUP), BA Hons (BUP) Lecturer,Room # 709 Ext # 105,E-mail: jannatul.eng@iub.edu"
+			]
+		},
+		{
+			"tag": "drabulkhair",
+			"patterns": [
+				"Can you please tell me details of Prof. Dr. Abul Khair Sir?",
+				"Tell me information about Prof. Dr. Abul Khair Dean of BSN Department ?"
+			],
+			"responses": [
+				"Prof. Dr. Abul Khair Dean CAAS and Dean (in charge) College Nursing Ph.D. (UC, UK) MSc, BSc Hons (DU),Room # 321 Ext # 191 ,E-mail: profabulkhair@iub.edu"
+			]
+		},
+		{
+			"tag": "mohammadullah",
+			"patterns": [
+				"Can you please tell me details of Prof Mohammad Ullah Sir?",
+				"Tell me information about Mohammad Ullah Chairman of BSN Department ?"
+			],
+			"responses": [
+				"Prof Mohammad Ullah Professor & Chair M Ed(UK),Diploma in PHC (UK),MPH-HE (DU), BSc in Nursing (DU),Room # 806   Ext # 317,E-mail: chair_cn@iub.edu"
+			]
+		},
+		{
+			"tag": "shuvashishdasbala",
+			"patterns": [
+				"Can you please tell me details of Shuvashuish Das Bala Sir?",
+				"Tell me information about Shuvashish Das Bala of BSN Department ?"
+			],
+			"responses": [
+				"Shuvashish Das Bala Assistant Professor and Coordinator MPH (ASAU), BSN (iub) ,Room # 617   Ext # 349,E-mail: shuvashish@iub.edu"
+			]
+		},
+		{
+			"tag": "kanikaislam",
+			"patterns": [
+				"Can you please tell me details of Kanika Islam Ma'am?",
+				"Tell me information about Kanika Islam  of BSN Department ?"
+			],
+			"responses": [
+				"Kanika Islam Senior Lecturer BSN (iub),Room # 619   Ext # 602 ,E-mail: kanika.islam@iub.edu"
+			]
+		},
+		{
+			"tag": "priyankadassharmi",
+			"patterns": [
+				"Could you please tell me details of Priyanka Das Sharmi Sir?",
+				"Tell me information about Priyanka Das Sharmi of BSN Department ?"
+			],
+			"responses": [
+				"Priyanka Das Sharmi Senior Lecturer MSS(DU), B.Sc(AFMI) ,Room # 322   Ext # 313,E-mail: priyanka.sharmi@iub.edu"
+			]
+		},
+		{
+			"tag": "silviaferdousi",
+			"patterns": [
+				"Could you please tell me details of Silvia Ferdousi Ma'am?",
+				"Tell me information about  Silvia Ferdousi of BSN Department ?"
+			],
+			"responses": [
+				"Silvia Ferdousi Lecturer MSS (DU),BSc (Armed Forces Medical Institute Under BUP),Room # 710 Ext # 144,E-mail: silvia@iub.edu"
+			]
+		},
+		{
+			"tag": "drdewanmuhammadnuruzzaman",
+			"patterns": [
+				"Could you please tell me details of Dr. Dewan Muhammad Nuruzzaman Sir?",
+				"Tell me information about Chairman of ME Department ?"
+			],
+			"responses": [
+				"Professor & Chair Ph.D. (Mechanical Engineering),Saga University, Japan M.Sc.(Mechanical Engineering),University Putra Malaysia (UPM) B.Sc. (Mechanical Engineering), Rajshahi University of Engineering & Technology(RUET) ,Room # 816 Ext # 814 ,E-mail : nuruzzaman.me@iub.edu"
+			]
+		},
+		{
+			"tag": "drakmpervejiqbal",
+			"patterns": [
+				"Could you please tell me details of Dr. A.K.M. Parvej Iqbal Sir?",
+				"Tell me information about Coordinator of ME Department ?"
+			],
+			"responses": [
+				"Dr. A. K. M. parvej Iqbal Associate Professor & Coordinator PhD (Malaysia),MSc (Malaysia), B.Sc(RUET),Email: akm.parvez.iqbal@iub.edu ,Room# 418,  Ext# 40"
+			]
+		},
+		{
+			"tag": "saifullah",
+			"patterns": [
+				"Could you please tell me details of Prof Dr Engr. A Z A Saifullah Sir?",
+				"Tell me information about Saifullah of ME Department ?"
+			],
+			"responses": [
+				"Prof Dr Engr. A Z A Saifullah Professor D Sc Eng (India), M Eng (Japan) BEng (Pakistan) ,Room # 316 | Ext # 321,Email: d_saifullah@iub.edu"
+			]
+		},
+		{
+			"tag": "sarwariqbal",
+			"patterns": [
+				"Could you please tell me details of Prof. Dr.Engr. KMN Sarwar Iqbal Sir?",
+				"Tell me information about Sarwar Iqbal of ME Department ?"
+			],
+			"responses": [
+				"Prof. Dr. Engr. KMN Sarwar Iqbal Professor PhD (Mech Engg) [IUT, OIC] B S (Mech Engr) [PVAMU,USA],M S (Mech Engr) [PVAMU,USA],Email: kiqbal@iub.edu,Room: 515, Ext. 506"
+			]
+		},
+		{
+			"tag": "drakmsolaymanhoque",
+			"patterns": [
+				"Could you please tell me details of Kamal Hossain Sir?",
+				"Tell me information about Kamal Hossain of BBA Department ?"
+			],
+			"responses": [
+				" Dr. A. K. M. Solayman Hoque Assistant Professor PhD in Mech Engg (CUET),M of Mech Engg, BSc of Mech Engg (CUET),Room# 413, Ext # 497,Email: solayman.hoque@iub.edu"
+			]
+		},
+		{
+			"tag": "foysalahmed",
+			"patterns": [
+				"Could you please tell me details of Dr. A.K.M. Foysal Ahmed Sir?",
+				"Tell me information about Foysal Ahmed of ME Department ?"
+			],
+			"responses": [
+				"Dr. A. K. M. Foysal Ahmed Assistant Professor Ph.D. (South Korea) M.Sc(Brunei),B.Sc(Pakistan) ,Room# 418; | Ext# 409 ,Email: drfoysal@iub.edu"
+			]
+		},
+		{
+			"tag": "arifmdshahediqubal",
+			"patterns": [
+				"Could you please tell me details of Arif Md. Shahed Iqbal Sir?",
+				"Tell me information about Arif Md Shahed Iqbal of ME Department ?"
+			],
+			"responses": [
+				"He is Assistant Professor BSME (iub) MSc continued (DUET) ,Email: iqubal.shahed@iub.edu ,Room# 411, Ext# 490"
+			]
+		},
+		{
+			"tag": "drmdrakibuzzaman",
+			"patterns": [
+				"Could you please tell me details of Dr Md Rakibuzzaman Sir?",
+				"Tell me information about Dr Md Rakibuzzaman of ME Department ?"
+			],
+			"responses": [
+				"He is Assistant Professor PhD (Korea) M.Sc.(Korea), B.Sc. (RUET) ,Room #511 | Ext#226 ,E-mail: rakibuzzaman@iub.edu"
+			]
+		},
+		{
+			"tag": "drdebasishsarker",
+			"patterns": [
+				"Could you please tell me details of Dr Debasish Sarkar Sir?",
+				"Tell me information about  Dr Debasish Sarkar of ME Department ?"
+			],
+			"responses": [
+				"He is Assistant Professor Ph.D. (Germany) MSc (Korea), BSc (BUET) ,Room # 523 | Ext # 522 ,E-mail: dsarker.me@iub.edu"
+			]
+		},
+		{
+			"tag": "nayemhossain",
+			"patterns": [
+				"Could you please tell me details of Nayem Hossain Sir?",
+				"Tell me information about Nayem Hossain of ME Department ?"
+			],
+			"responses": [
+				"He is Assistant Professor M.Sc (DUET) BSME (iub) ,Email: nayem.hossain@iub.edu ,Room# 813,  Ext# 885"
+			]
+		},
+		{
+			"tag": "sayeamahmed",
+			"patterns": [
+				"Could you please tell me details of Sayeam Ahmed Sir?",
+				"Tell me information about Sayeam Ahmed of ME Department ?"
+			],
+			"responses": [
+				"He is Senior Lecturer BSME (iub) ,Email: sayeam@iub.edu ,Room# 519, Ext# 511"
+			]
+		},
+		{
+			"tag": "mddidarulislam",
+			"patterns": [
+				"Could you please tell me details of Md Didrul Islam Sir?",
+				"Tell me information about Md Didrul Islam of ME Department ?"
+			],
+			"responses": [
+				"He is Senior Lecturer B.Sc. in Mechanical Engineering (iub) ,Room # 812 Ext # 563 ,E-mail: didar@iub.edu"
+			]
+		},
+		{
+			"tag": "Scholarship",
+			"patterns": [
+				"tell me about scholarship details"
+			],
+			"responses": [
+				"Scholarships Scholarships on tuition for bachelor's and diploma programs are awarded to students based on their academic performance and financial status,90-95% Merit Scholarships,20-25% Performance Scholarships, BDT 20 MillionScholarships Budget Annually,Merit Scholarships Merit Scholarships on tuition for bachelor and diploma programs are awarded to students based on their academic performance in SSC, HSC, A Levels and equivalent examination. The rates of Merit Scholarship on tuition fees for current semester are as follows"
+			]
+		}
+	]
+}
