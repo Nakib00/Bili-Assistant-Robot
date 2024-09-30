@@ -32,7 +32,7 @@ The JSON file contains an array of `intents`. Each intent consists of the follow
         }
     ]
 }
-
+```
 ### Example Structure (Bangla)
 ```json
 {
