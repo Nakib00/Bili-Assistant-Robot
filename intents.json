@@ -1878,6 +1878,49 @@
 			"responses": [
 				"Scholarships Scholarships on tuition for bachelor's and diploma programs are awarded to students based on their academic performance and financial status,90-95% Merit Scholarships,20-25% Performance Scholarships, BDT 20 MillionScholarships Budget Annually,Merit Scholarships Merit Scholarships on tuition for bachelor and diploma programs are awarded to students based on their academic performance in SSC, HSC, A Levels and equivalent examination. The rates of Merit Scholarship on tuition fees for current semester are as follows"
 			]
+		},
+		{
+			"tag": "insults_english",
+			"patterns": [
+				"motherfucker",
+				"fuck",
+				"shit",
+				"asshole",
+				"bitch",
+				"bastard",
+				"dickhead",
+				"cunt",
+				"prick",
+				"wanker",
+				"douchebag",
+				"crap",
+				"piss off",
+				"son of a bitch",
+				"slut",
+				"whore",
+				"dumbass",
+				"jackass",
+				"fucker",
+				"pussy",
+				"twat",
+				"freaking",
+				"dick",
+				"bullshit",
+				"goddamn",
+				"bloody hell",
+				"arsehole",
+				"idiot",
+				"loser",
+				"moron",
+				"scumbag"
+			],
+			"responses": [
+				"Please watch your language.",
+				"Let's keep the conversation respectful.",
+				"Kindly use appropriate words.",
+				"Such words are not allowed."
+			]
 		}
 	]
+
 }
