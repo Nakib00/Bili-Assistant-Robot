@@ -1706,6 +1706,906 @@
 			]
 		},
 		{
+			"tag": "MdJosimUddin",
+			"patterns": [
+				"Could you please tell me details of Md Josim Uddin?",
+				"Tell me information about Md Josim Uddin of Pharmacy Department?"
+			],
+			"responses": [
+				"Md Josim Uddin is Assistant Professor and Head of the Dept. of Pharmacy, Room: BC9023A, E-mail: josim@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "JMAHannan",
+			"patterns": [
+				"Could you please tell me details of J M A Hannan?",
+				"Tell me information about J M A Hannan of Pharmacy Department?"
+			],
+			"responses": [
+				"J M A Hannan is Professor of the Dept. of Pharmacy, Room: BC 10000, E-mail: jmahannan@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "AkibBinRahman",
+			"patterns": [
+				"Could you please tell me details of Akib Bin Rahman?",
+				"Tell me information about Akib Bin Rahman of Pharmacy Department?"
+			],
+			"responses": [
+				"Akib Bin Rahman is Assistant Professor of the Dept. of Pharmacy, Room: BC 9023C, E-mail: akib_pharmspph@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MadhabiLataShuma",
+			"patterns": [
+				"Could you please tell me details of Madhabi Lata Shuma?",
+				"Tell me information about Madhabi Lata Shuma of Pharmacy Department?"
+			],
+			"responses": [
+				"Madhabi Lata Shuma is Assistant Professor of the Dept. of Pharmacy, Room: BC 10008 A, E-mail: madhabi@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MahmudaNargis",
+			"patterns": [
+				"Could you please tell me details of Mahmuda Nargis?",
+				"Tell me information about Mahmuda Nargis of Pharmacy Department?"
+			],
+			"responses": [
+				"Mahmuda Nargis is Assistant Professor of the Dept. of Pharmacy, Room: BC BC10023 B, E-mail: mahmuda@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "NasrinAkhter",
+			"patterns": [
+				"Could you please tell me details of Nasrin Akhter?",
+				"Tell me information about Nasrin Akhter of Pharmacy Department?"
+			],
+			"responses": [
+				"Nasrin Akhter is Assistant Professor of the Dept. of Pharmacy, Room: BC 9023B, E-mail: nasrin.a@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "SeaguftaAfrin",
+			"patterns": [
+				"Could you please tell me details of Seagufta Afrin?",
+				"Tell me information about Seagufta Afrin of Pharmacy Department?"
+			],
+			"responses": [
+				"Seagufta Afrin is Lecturer A of the Dept. of Pharmacy, Room: BC10018 A, E-mail: seagufta@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "AminaAlamKotha",
+			"patterns": [
+				"Could you please tell me details of Amina Alam Kotha?",
+				"Tell me information about Amina Alam Kotha of Pharmacy Department?"
+			],
+			"responses": [
+				"Amina Alam Kotha is Lecturer B of the Dept. of Pharmacy, Room: BC BC10023 A, E-mail: kotha@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MashmumShababaShahid",
+			"patterns": [
+				"Could you please tell me details of Mashmum Shababa Shahid?",
+				"Tell me information about Mashmum Shababa Shahid of Pharmacy Department?"
+			],
+			"responses": [
+				"Mashmum Shababa Shahid is Lecturer B of the Dept. of Pharmacy, Room: BC 9023F, E-mail: m.shahid@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdAbdulAziz",
+			"patterns": [
+				"Could you please tell me details of Md Abdul Aziz?",
+				"Tell me information about Md Abdul Aziz of Pharmacy Department?"
+			],
+			"responses": [
+				"Md Abdul Aziz is Lecturer B of the Dept. of Pharmacy, Room: BC 10023A, E-mail: abdul.aziz@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MehdiBinSamad",
+			"patterns": [
+				"Could you please tell me details of Mehdi Bin Samad?",
+				"Tell me information about Mehdi Bin Samad of Pharmacy Department?"
+			],
+			"responses": [
+				"Mehdi Bin Samad is Lecturer B of the Dept. of Pharmacy, Office: not specified, E-mail: mbsamad@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MohammadAbbasGani",
+			"patterns": [
+				"Could you please tell me details of Mohammad Abbas Gani?",
+				"Tell me information about Mohammad Abbas Gani of Pharmacy Department?"
+			],
+			"responses": [
+				"Mohammad Abbas Gani is Lecturer B of the Dept. of Pharmacy, Room: BC 9023, E-mail: abbas@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "NafisaRawshan",
+			"patterns": [
+				"Could you please tell me details of Nafisa Rawshan?",
+				"Tell me information about Nafisa Rawshan of Pharmacy Department?"
+			],
+			"responses": [
+				"Nafisa Rawshan is Lecturer B of the Dept. of Pharmacy, Room: BC BC10018 A, E-mail: nafisa@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "NaimaNusratJahan",
+			"patterns": [
+				"Could you please tell me details of Naima Nusrat Jahan?",
+				"Tell me information about Naima Nusrat Jahan of Pharmacy Department?"
+			],
+			"responses": [
+				"Naima Nusrat Jahan is Lecturer B of the Dept. of Pharmacy, Room: BC 9023 F, E-mail: naima@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "RafiaRokaiyaHossain",
+			"patterns": [
+				"Could you please tell me details of Rafia Rokaiya Hossain?",
+				"Tell me information about Rafia Rokaiya Hossain of Pharmacy Department?"
+			],
+			"responses": [
+				"Rafia Rokaiya Hossain is Lecturer B of the Dept. of Pharmacy, Room: BC9023 F, E-mail: rafia@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "RunaAkter",
+			"patterns": [
+				"Could you please tell me details of Runa Akter?",
+				"Tell me information about Runa Akter of Pharmacy Department?"
+			],
+			"responses": [
+				"Runa Akter is Lecturer B of the Dept. of Pharmacy, Room: BC10023 A, E-mail: runa@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "ZenatZebinHossain",
+			"patterns": [
+				"Could you please tell me details of Zenat Zebin Hossain?",
+				"Tell me information about Zenat Zebin Hossain of Public Health Department?"
+			],
+			"responses": [
+				"Zenat Zebin Hossain is Assistant Professor and Head of the Dept. of Public Health, Room: BC 10010, E-mail: zenat@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "KamranulBaset",
+			"patterns": [
+				"Could you please tell me details of Kamran ul Baset?",
+				"Tell me information about Kamran ul Baset of Public Health Department?"
+			],
+			"responses": [
+				"Kamran ul Baset is Associate Professor of the Dept. of Public Health, Room: BC 10011, E-mail: kamranspph@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "NafisaHuq",
+			"patterns": [
+				"Could you please tell me details of Nafisa Huq?",
+				"Tell me information about Nafisa Huq of Public Health Department?"
+			],
+			"responses": [
+				"Nafisa Huq is Assistant Professor of the Dept. of Public Health, Room: BC 10010, E-mail: nafisahuq@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "SMRaysulHaque",
+			"patterns": [
+				"Could you please tell me details of S M Raysul Haque?",
+				"Tell me information about S M Raysul Haque of Public Health Department?"
+			],
+			"responses": [
+				"S M Raysul Haque is Assistant Professor of the Dept. of Public Health, Room: BC 10011, E-mail: raysul.haque@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdRabiulIslam",
+			"patterns": [
+				"Could you please tell me details of Md Rabiul Islam?",
+				"Tell me information about Md Rabiul Islam of Public Health Department?"
+			],
+			"responses": [
+				"Md Rabiul Islam is Lecturer A of the Dept. of Public Health, Room: BC 10008, E-mail: rabiul@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "ShabareenTisha",
+			"patterns": [
+				"Could you please tell me details of Shabareen Tisha?",
+				"Tell me information about Shabareen Tisha of Public Health Department?"
+			],
+			"responses": [
+				"Shabareen Tisha is Lecturer A of the Dept. of Public Health, Room: BC 10008 (D), E-mail: shabareen.tisha@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "TasnuvaFaruk",
+			"patterns": [
+				"Could you please tell me details of Tasnuva Faruk?",
+				"Tell me information about Tasnuva Faruk of Public Health Department?"
+			],
+			"responses": [
+				"Tasnuva Faruk is Lecturer A of the Dept. of Public Health, Room: BC 10008B, E-mail: tasnuva.faruk@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MuhammadMahbuburRahman",
+			"patterns": [
+				"Could you please tell me details of Muhammad Mahbubur Rahman?",
+				"Tell me information about Muhammad Mahbubur Rahman of Law Department?"
+			],
+			"responses": [
+				"Muhammad Mahbubur Rahman is Professor and Head of the Dept. of Law, E-mail: mahbubur@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MohammadNazmuzzamanBhuian",
+			"patterns": [
+				"Could you please tell me details of Mohammad Nazmuzzaman Bhuian?",
+				"Tell me information about Mohammad Nazmuzzaman Bhuian of Law Department?"
+			],
+			"responses": [
+				"Mohammad Nazmuzzaman Bhuian is Professor of the Dept. of Law, E-mail: mnb@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "AssaduzzamanKhan",
+			"patterns": [
+				"Could you please tell me details of Assaduzzaman Khan?",
+				"Tell me information about Assaduzzaman Khan of Law Department?"
+			],
+			"responses": [
+				"Assaduzzaman Khan is Professor of the Dept. of Law, Room: C 8012, E-mail: assadng@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "BorhanUddinKhan",
+			"patterns": [
+				"Could you please tell me details of Borhan Uddin Khan?",
+				"Tell me information about Borhan Uddin Khan of Law Department?"
+			],
+			"responses": [
+				"Borhan Uddin Khan is Professor of the Dept. of Law, Room: C 9007, E-mail: borhan@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdAbdulAwalKhan",
+			"patterns": [
+				"Could you please tell me details of Md Abdul Awal Khan?",
+				"Tell me information about Md Abdul Awal Khan of Law Department?"
+			],
+			"responses": [
+				"Md Abdul Awal Khan is Professor of the Dept. of Law, Room: C 8011, E-mail: awalkhanlaw@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "AnisurRahman",
+			"patterns": [
+				"Could you please tell me details of Anisur Rahman?",
+				"Tell me information about Anisur Rahman of Law Department?"
+			],
+			"responses": [
+				"Anisur Rahman is Associate Professor of the Dept. of Law, Room: BC 9005, E-mail: anisur@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdJahidHossainBhuiyan",
+			"patterns": [
+				"Could you please tell me details of Md Jahid Hossain Bhuiyan?",
+				"Tell me information about Md Jahid Hossain Bhuiyan of Law Department?"
+			],
+			"responses": [
+				"Md Jahid Hossain Bhuiyan is Associate Professor of the Dept. of Law, Room: C 8015, E-mail: jahid@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "HassanFarukAlImran",
+			"patterns": [
+				"Could you please tell me details of Hassan Faruk Al Imran?",
+				"Tell me information about Hassan Faruk Al Imran of Law Department?"
+			],
+			"responses": [
+				"Hassan Faruk Al Imran is Assistant Professor of the Dept. of Law, Room: BC 8013, E-mail: hassan.alimran@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdMonjurHasan",
+			"patterns": [
+				"Could you please tell me details of Md. Monjur Hasan?",
+				"Tell me information about Md. Monjur Hasan of Law Department?"
+			],
+			"responses": [
+				"Md. Monjur Hasan is Assistant Professor of the Dept. of Law, Room: MK 6004 (B), E-mail: hasan@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdToriqulIslam",
+			"patterns": [
+				"Could you please tell me details of Md. Toriqul Islam?",
+				"Tell me information about Md. Toriqul Islam of Law Department?"
+			],
+			"responses": [
+				"Md. Toriqul Islam is Assistant Professor of the Dept. of Law, Room: MK 6004 (A), E-mail: toriqul@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "ZahidulIslam",
+			"patterns": [
+				"Could you please tell me details of Zahidul Islam?",
+				"Tell me information about Zahidul Islam of Law Department?"
+			],
+			"responses": [
+				"Zahidul Islam is Assistant Professor of the Dept. of Law, Room: C 8003, E-mail: zahidul@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "LitonChandraBiswas",
+			"patterns": [
+				"Could you please tell me details of Liton Chandra Biswas?",
+				"Tell me information about Liton Chandra Biswas of Law Department?"
+			],
+			"responses": [
+				"Liton Chandra Biswas is Assistant Professor of the Dept. of Law, Room: C C8004, E-mail: lcb@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "AfrozaBilkis",
+			"patterns": [
+				"Could you please tell me details of Afroza Bilkis?",
+				"Tell me information about Afroza Bilkis of Law Department?"
+			],
+			"responses": [
+				"Afroza Bilkis is Lecturer A of the Dept. of Law, Room: C 9011, E-mail: afroza.bilkis@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdAlIfranHossainMollah",
+			"patterns": [
+				"Could you please tell me details of Md Al Ifran Hossain Mollah?",
+				"Tell me information about Md Al Ifran Hossain Mollah of Law Department?"
+			],
+			"responses": [
+				"Md Al Ifran Hossain Mollah is Lecturer A of the Dept. of Law, Room: C 9008, E-mail: ifran@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "RehnumaBinteMamun",
+			"patterns": [
+				"Could you please tell me details of Rehnuma Binte Mamun?",
+				"Tell me information about Rehnuma Binte Mamun of Law Department?"
+			],
+			"responses": [
+				"Rehnuma Binte Mamun is Lecturer A of the Dept. of Law, Room: C, E-mail: rehnuma@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "TariqBinSarwar",
+			"patterns": [
+				"Could you please tell me details of Tariq Bin Sarwar?",
+				"Tell me information about Tariq Bin Sarwar of Law Department?"
+			],
+			"responses": [
+				"Tariq Bin Sarwar is Lecturer A of the Dept. of Law, Room: C 8014, E-mail: tariqsarwar.law@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "WashikMuhammodIstiaqEzaz",
+			"patterns": [
+				"Could you please tell me details of Washik Muhammod Istiaq Ezaz?",
+				"Tell me information about Washik Muhammod Istiaq Ezaz of Law Department?"
+			],
+			"responses": [
+				"Washik Muhammod Istiaq Ezaz is Lecturer A of the Dept. of Law, Room: C C9008, E-mail: washik@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MaimunaSyedAhmed",
+			"patterns": [
+				"Could you please tell me details of Maimuna Syed Ahmed?",
+				"Tell me information about Maimuna Syed Ahmed of Law Department?"
+			],
+			"responses": [
+				"Maimuna Syed Ahmed is Lecturer B of the Dept. of Law, Room: C, E-mail: maimuna.mk94slass@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdHafizurRahman",
+			"patterns": [
+				"Could you please tell me details of Md Hafizur Rahman?",
+				"Tell me information about Md Hafizur Rahman of ESM Department?"
+			],
+			"responses": [
+				"Md Hafizur Rahman is Associate Professor and Head of the Dept. of ESM, Room: BC 9000, E-mail: hrahman@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdAbdulKhaleque",
+			"patterns": [
+				"Could you please tell me details of Md Abdul Khaleque?",
+				"Tell me information about Md Abdul Khaleque of ESM Department?"
+			],
+			"responses": [
+				"Md Abdul Khaleque is Professor of the Dept. of ESM, Room: BC 9005, E-mail: akhaleque@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "KAyazRabbani",
+			"patterns": [
+				"Could you please tell me details of K Ayaz Rabbani?",
+				"Tell me information about K Ayaz Rabbani of ESM Department?"
+			],
+			"responses": [
+				"K Ayaz Rabbani is Associate Professor of the Dept. of ESM, Room: BC 9012, E-mail: rabbani@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MohammadSorowarHossain",
+			"patterns": [
+				"Could you please tell me details of Mohammad Sorowar Hossain?",
+				"Tell me information about Mohammad Sorowar Hossain of ESM Department?"
+			],
+			"responses": [
+				"Mohammad Sorowar Hossain is Associate Professor of the Dept. of ESM, Room: BC 9008, E-mail: sorowar.hossain@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "RumanaSultana",
+			"patterns": [
+				"Could you please tell me details of Rumana Sultana?",
+				"Tell me information about Rumana Sultana of ESM Department?"
+			],
+			"responses": [
+				"Rumana Sultana is Assistant Professor of the Dept. of ESM, Room: BC 9010A, E-mail: rumana.sultana@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "SadiaNazneenKarobi",
+			"patterns": [
+				"Could you please tell me details of Sadia Nazneen Karobi?",
+				"Tell me information about Sadia Nazneen Karobi of ESM Department?"
+			],
+			"responses": [
+				"Sadia Nazneen Karobi is Assistant Professor of the Dept. of ESM, Room: BC 9010, E-mail: snkarobi@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "TawhidMonzur",
+			"patterns": [
+				"Could you please tell me details of Tawhid Monzur?",
+				"Tell me information about Tawhid Monzur of ESM Department?"
+			],
+			"responses": [
+				"Tawhid Monzur is Assistant Professor of the Dept. of ESM, Room: BC 9007B, E-mail: tawhmo18@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "KaziSunzidaLisa",
+			"patterns": [
+				"Could you please tell me details of Kazi Sunzida Lisa?",
+				"Tell me information about Kazi Sunzida Lisa of ESM Department?"
+			],
+			"responses": [
+				"Kazi Sunzida Lisa is Lecturer A of the Dept. of ESM, Room: BC 9009B, E-mail: sunzida@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdEkhtekharulIslam",
+			"patterns": [
+				"Could you please tell me details of Md Ekhtekharul Islam?",
+				"Tell me information about Md Ekhtekharul Islam of ESM Department?"
+			],
+			"responses": [
+				"Md Ekhtekharul Islam is Lecturer A of the Dept. of ESM, Room: BC 9006, E-mail: ekhtekhar@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MohammadAbdulBaten",
+			"patterns": [
+				"Could you please tell me details of Mohammad Abdul Baten?",
+				"Tell me information about Mohammad Abdul Baten of ESM Department?"
+			],
+			"responses": [
+				"Mohammad Abdul Baten is Lecturer A of the Dept. of ESM, E-mail: a.baten@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "SaquibAhmadKhan",
+			"patterns": [
+				"Could you please tell me details of Saquib Ahmad Khan?",
+				"Tell me information about Saquib Ahmad Khan of ESM Department?"
+			],
+			"responses": [
+				"Saquib Ahmad Khan is Lecturer A of the Dept. of ESM, Room: BC 9006C, E-mail: saquib@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "TanvirAhmedHaroon",
+			"patterns": [
+				"Could you please tell me details of Tanvir Ahmed Haroon?",
+				"Tell me information about Tanvir Ahmed Haroon of ESM Department?"
+			],
+			"responses": [
+				"Tanvir Ahmed Haroon is Lecturer A of the Dept. of ESM, Room: BC, E-mail: taharoon@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "KarishmaSinha",
+			"patterns": [
+				"Could you please tell me details of Karishma Sinha?",
+				"Tell me information about Karishma Sinha of ESM Department?"
+			],
+			"responses": [
+				"Karishma Sinha is Lecturer B of the Dept. of ESM, Room: BC 9009A, E-mail: karishma@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "NabilaRahman",
+			"patterns": [
+				"Could you please tell me details of Nabila Rahman?",
+				"Tell me information about Nabila Rahman of ESM Department?"
+			],
+			"responses": [
+				"Nabila Rahman is Lecturer B of the Dept. of ESM, E-mail: nabila.rahman@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "TahminaSultana",
+			"patterns": [
+				"Could you please tell me details of Tahmina Sultana?",
+				"Tell me information about Tahmina Sultana of ESM Department?"
+			],
+			"responses": [
+				"Tahmina Sultana is Lecturer B of the Dept. of ESM, Room: BC 9009B, E-mail: tahmina@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "AshrafusSafa",
+			"patterns": [
+				"Could you please tell me details of Ashrafus Safa?",
+				"Tell me information about Ashrafus Safa of Life Sciences Department?"
+			],
+			"responses": [
+				"Ashrafus Safa is Associate Professor and Head of the Dept. of Life Sciences, Room: BC 10013A, E-mail: asafa@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "ShahMFaruque",
+			"patterns": [
+				"Could you please tell me details of Shah M Faruque?",
+				"Tell me information about Shah M Faruque of Life Sciences Department?"
+			],
+			"responses": [
+				"Shah M Faruque is Professor of the Dept. of Life Sciences, Room: BC 10002D, E-mail: shah.faruque@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdMahmodulHasanSohel",
+			"patterns": [
+				"Could you please tell me details of Md Mahmodul Hasan Sohel?",
+				"Tell me information about Md Mahmodul Hasan Sohel of Life Sciences Department?"
+			],
+			"responses": [
+				"Md Mahmodul Hasan Sohel is Associate Professor of the Dept. of Life Sciences, Room: BC 10013, E-mail: mmhs@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "FahmidaAlam",
+			"patterns": [
+				"Could you please tell me details of Fahmida Alam?",
+				"Tell me information about Fahmida Alam of Life Sciences Department?"
+			],
+			"responses": [
+				"Fahmida Alam is Assistant Professor of the Dept. of Life Sciences, Room: C 8008, E-mail: fahmida.alam@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "JannatulFerdous",
+			"patterns": [
+				"Could you please tell me details of Jannatul Ferdous?",
+				"Tell me information about Jannatul Ferdous of Life Sciences Department?"
+			],
+			"responses": [
+				"Jannatul Ferdous is Assistant Professor of the Dept. of Life Sciences, Room: BC 10012, E-mail: jannatul@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "JebunnaharKhandakar",
+			"patterns": [
+				"Could you please tell me details of Jebunnahar Khandakar?",
+				"Tell me information about Jebunnahar Khandakar of Life Sciences Department?"
+			],
+			"responses": [
+				"Jebunnahar Khandakar is Assistant Professor of the Dept. of Life Sciences, Room: BC 10012B, E-mail: dr.khandakar@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdAhsanUlBari",
+			"patterns": [
+				"Could you please tell me details of Md Ahsan Ul Bari?",
+				"Tell me information about Md Ahsan Ul Bari of Life Sciences Department?"
+			],
+			"responses": [
+				"Md Ahsan Ul Bari is Assistant Professor of the Dept. of Life Sciences, Room: BC 10007A, E-mail: ahsan@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "SabrinaMoriomElias",
+			"patterns": [
+				"Could you please tell me details of Sabrina Moriom Elias?",
+				"Tell me information about Sabrina Moriom Elias of Life Sciences Department?"
+			],
+			"responses": [
+				"Sabrina Moriom Elias is Assistant Professor of the Dept. of Life Sciences, Room: C 8007, E-mail: sabrina.elias@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MarizSintaha",
+			"patterns": [
+				"Could you please tell me details of Mariz Sintaha?",
+				"Tell me information about Mariz Sintaha of Life Sciences Department?"
+			],
+			"responses": [
+				"Mariz Sintaha is Lecturer A of the Dept. of Life Sciences, Room: BC 10007, E-mail: m.sintaha@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "ABMRezwanulKabir",
+			"patterns": [
+				"Could you please tell me details of A B M Rezwanul Kabir?",
+				"Tell me information about A B M Rezwanul Kabir of Life Sciences Department?"
+			],
+			"responses": [
+				"A B M Rezwanul Kabir is Lecturer B of the Dept. of Life Sciences, Room: BC 10007, E-mail: rezwanul.kabir@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "AfiaNowshen",
+			"patterns": [
+				"Could you please tell me details of Afia Nowshen?",
+				"Tell me information about Afia Nowshen of Life Sciences Department?"
+			],
+			"responses": [
+				"Afia Nowshen is Lecturer B of the Dept. of Life Sciences, Room: BC 10007, E-mail: afia@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "ArkaRoy",
+			"patterns": [
+				"Could you please tell me details of Arka Roy?",
+				"Tell me information about Arka Roy of Life Sciences Department?"
+			],
+			"responses": [
+				"Arka Roy is Lecturer B of the Dept. of Life Sciences, Room: BC 1007C, E-mail: arka@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "NazratunNayeemChoudhury",
+			"patterns": [
+				"Could you please tell me details of Nazratun Nayeem Choudhury?",
+				"Tell me information about Nazratun Nayeem Choudhury of Life Sciences Department?"
+			],
+			"responses": [
+				"Nazratun Nayeem Choudhury is Lecturer B of the Dept. of Life Sciences, Room: BC 10007, E-mail: naznatun@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "NowshinTarannum",
+			"patterns": [
+				"Could you please tell me details of Nowshin Tarannum?",
+				"Tell me information about Nowshin Tarannum of Life Sciences Department?"
+			],
+			"responses": [
+				"Nowshin Tarannum is Lecturer B of the Dept. of Life Sciences, Room: BC 10007, E-mail: nowshin@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "TasnimulFerdous",
+			"patterns": [
+				"Could you please tell me details of Tasnimul Ferdous?",
+				"Tell me information about Tasnimul Ferdous of Life Sciences Department?"
+			],
+			"responses": [
+				"Tasnimul Ferdous is Lecturer B of the Dept. of Life Sciences, Room: BC 10007D, E-mail: shammo.tasnim@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "SMSohelRana",
+			"patterns": [
+				"Could you please tell me details of S M Sohel Rana?",
+				"Tell me information about S M Sohel Rana of Marketing Department?"
+			],
+			"responses": [
+				"S M Sohel Rana is Associate Professor and Head of the Dept. of Marketing, Room: BC 3006, E-mail: sohelrana@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "RafiuddinAhmed",
+			"patterns": [
+				"Could you please tell me details of Rafiuddin Ahmed?",
+				"Tell me information about Rafiuddin Ahmed of Marketing Department?"
+			],
+			"responses": [
+				"Rafiuddin Ahmed is Professor of the Dept. of Marketing, Room: BC 3006, E-mail: rafiuddin@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "AbulKhairJyote",
+			"patterns": [
+				"Could you please tell me details of Abul Khair Jyote?",
+				"Tell me information about Abul Khair Jyote of Marketing Department?"
+			],
+			"responses": [
+				"Abul Khair Jyote is Lecturer A of the Dept. of Marketing, Room: BC 3006, E-mail: akj.iub@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MohammedSohelIslam",
+			"patterns": [
+				"Could you please tell me details of Mohammed Sohel Islam?",
+				"Tell me information about Mohammed Sohel Islam of Marketing Department?"
+			],
+			"responses": [
+				"Mohammed Sohel Islam is Lecturer A of the Dept. of Marketing, Room: BC 4009C, E-mail: sohelislam@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "SheikhMohammadFauzulAzim",
+			"patterns": [
+				"Could you please tell me details of Sheikh Mohammad Fauzul Azim?",
+				"Tell me information about Sheikh Mohammad Fauzul Azim of Marketing Department?"
+			],
+			"responses": [
+				"Sheikh Mohammad Fauzul Azim is Lecturer A of the Dept. of Marketing, Room: BC 3007, E-mail: azim2705@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "SumanProsadSaha",
+			"patterns": [
+				"Could you please tell me details of Suman Prosad Saha?",
+				"Tell me information about Suman Prosad Saha of Marketing Department?"
+			],
+			"responses": [
+				"Suman Prosad Saha is Lecturer A of the Dept. of Marketing, Room: BC 3006, E-mail: suman.saha@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "ZakiaBinteJamal",
+			"patterns": [
+				"Could you please tell me details of Zakia Binte Jamal?",
+				"Tell me information about Zakia Binte Jamal of Marketing Department?"
+			],
+			"responses": [
+				"Zakia Binte Jamal is Lecturer A of the Dept. of Marketing, Room: BC 4009, E-mail: zakia@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdAzzajurRahman",
+			"patterns": [
+				"Could you please tell me details of Md Azzajur Rahman?",
+				"Tell me information about Md Azzajur Rahman of Marketing Department?"
+			],
+			"responses": [
+				"Md Azzajur Rahman is Lecturer B of the Dept. of Marketing, Room: BC 4007-B, E-mail: azzajur@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "NahinSultana",
+			"patterns": [
+				"Could you please tell me details of Nahin Sultana?",
+				"Tell me information about Nahin Sultana of Marketing Department?"
+			],
+			"responses": [
+				"Nahin Sultana is Lecturer B of the Dept. of Marketing, Room: BC 3007, E-mail: nahin@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "NushratJahan",
+			"patterns": [
+				"Could you please tell me details of Nushrat Jahan?",
+				"Tell me information about Nushrat Jahan of MIS Department?"
+			],
+			"responses": [
+				"Nushrat Jahan is Assistant Professor and Head of the Dept. of MIS, Room: BC 4009A, E-mail: mis_head@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "RezwanulAlam",
+			"patterns": [
+				"Could you please tell me details of Rezwanul Alam?",
+				"Tell me information about Rezwanul Alam of MIS Department?"
+			],
+			"responses": [
+				"Rezwanul Alam is Associate Professor of the Dept. of MIS, Room: BC 4003A, E-mail: rezwan@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "ArifurRahmanKhan",
+			"patterns": [
+				"Could you please tell me details of Arifur Rahman Khan?",
+				"Tell me information about Arifur Rahman Khan of MIS Department?"
+			],
+			"responses": [
+				"Arifur Rahman Khan is Lecturer A of the Dept. of MIS, Room: BC 2007, E-mail: arifur.rahman@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdAminulIslam",
+			"patterns": [
+				"Could you please tell me details of Md Aminul Islam?",
+				"Tell me information about Md Aminul Islam of MIS Department?"
+			],
+			"responses": [
+				"Md. Aminul Islam is Lecturer A of the Dept. of MIS, Room: BC 4007 B, E-mail: islam@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "SafayetRahman",
+			"patterns": [
+				"Could you please tell me details of Safayet Rahman?",
+				"Tell me information about Safayet Rahman of IB Department?"
+			],
+			"responses": [
+				"Safayet Rahman is Assistant Professor and Head of the Dept. of IB, Room: BC 2008 - B, E-mail: safayet.rahman@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "NazrulIslam",
+			"patterns": [
+				"Could you please tell me details of Nazrul Islam?",
+				"Tell me information about Nazrul Islam of IB Department?"
+			],
+			"responses": [
+				"Nazrul Islam is Professor of the Dept. of IB, Room: BC, E-mail: nazrul@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "RaisulAwalMahmood",
+			"patterns": [
+				"Could you please tell me details of Raisul Awal Mahmood?",
+				"Tell me information about Raisul Awal Mahmood of IB Department?"
+			],
+			"responses": [
+				"Raisul Awal Mahmood is Professor of the Dept. of IB, Room: BC 2007, E-mail: raisul@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "HanifMahtab",
+			"patterns": [
+				"Could you please tell me details of Hanif Mahtab?",
+				"Tell me information about Hanif Mahtab of IB Department?"
+			],
+			"responses": [
+				"Hanif Mahtab is Assistant Professor of the Dept. of IB, Room: BC 2008A, E-mail: hanif@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "SMYusufMallick",
+			"patterns": [
+				"Could you please tell me details of S. M. Yusuf Mallick?",
+				"Tell me information about S. M. Yusuf Mallick of IB Department?"
+			],
+			"responses": [
+				"S. M. Yusuf Mallick is Lecturer B of the Dept. of IB, Room: BC 4004, E-mail: ymallick@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "TarannumAzim",
+			"patterns": [
+				"Could you please tell me details of Tarannum Azim?",
+				"Tell me information about Tarannum Azim of IB Department?"
+			],
+			"responses": [
+				"Tarannum Azim is Lecturer B of the Dept. of IB, Room: BC 3007, E-mail: tarannum.azim@iub.edu.bd"
+			]
+		},
+		{
 			"tag": "Scholarship",
 			"patterns": [
 				"tell me about scholarship details"
