@@ -1,71 +1,35 @@
-# README for Intent Dataset
+# IUB Information Dataset
 
-Welcome to the Intent Dataset repository! This dataset is designed for chatbot training and is structured in JSON format. It includes various intents, patterns, and responses in both Bengali and English languages.
+## Overview
 
-## JSON Format Structure
+This repository contains a dataset of information related to the Independent University, Bangladesh (IUB). The dataset is available in both English and Bangla, stored in JSON format. This information is intended for researchers, students, and anyone interested in learning more about IUB.
 
-The JSON file contains an array of `intents`. Each intent consists of the following fields:
+## Dataset Structure
 
-- **tag**: A unique identifier for the intent. This should be a lowercase string without spaces.
-- **patterns**: An array of strings that represent different ways users may express this intent. These patterns can be in any language (Bengali or English).
-- **responses**: An array of strings that represent the bot's responses to the matched patterns.
+The dataset consists of the following fields:
 
-### Example Structure (English)
+- **name**: The name of the individual or department.
+- **position**: The position or title of the individual (e.g., Professor, Associate Professor).
+- **department**: The department or school associated with the individual.
+- **email**: The email address for contacting the individual.
+- **room**: The room number of the individual in the university.
+
+### Example JSON Structure
 
 ```json
-{
-    "intents": [
-        {
-            "tag": "greeting",
-            "patterns": [
-                "Hi",
-                "How are you?",
-                "Is anyone there?",
-                "Hello",
-                "Good day"
-            ],
-            "responses": [
-                "Hello, thanks for visiting",
-                "Good to see you",
-                "Hi dear, how can I help?"
-            ]
-        }
-    ]
-}
-```
-### Example Structure (Bangla)
-```json
-{
-    "intents": [
-        {
-            "tag": "bangla_greeting",
-            "patterns": [
-                "হাই",
-                "তুমি কেমন আছ?",
-                "কেউ আছেন?",
-                "হ্যালো",
-                "শুভ দিন"
-            ],
-            "responses": [
-                "হ্যালো, আপনাকে স্বাগতম",
-                "আপনাকে দেখে ভালো লাগছে",
-                "হাই প্রিয়, আমি কিভাবে সাহায্য করতে পারি?"
-            ]
-        },
-        {
-            "tag": "location_query",
-            "patterns": [
-                "অডিটোরিয়াম কোথায়?",
-                "অডিটোরিয়ামে কিভাবে যাব?",
-                "DMK বিল্ডিং কোথায়?",
-                "সুইমিং পুলে কিভাবে যাব?",
-                "মাল্টিপারপাস হলে যাওয়ার পথ দেখাও"
-            ],
-            "responses": [
-                "মানচিত্রে দেখছি...",
-                "আপনার জন্য মানচিত্র খুলছি...",
-                "মানচিত্রে রিডিরেক্ট করছি..."
-            ]
-        }
-    ]
-}
+[
+    {
+        "name": "Dr. Md Ashraful Amin",
+        "position": "Professor",
+        "department": "Computer Science & Engineering",
+        "email": "aminmdashraful@iub.edu.bd",
+        "room": "BC 5001D"
+    },
+    {
+        "name": "Dr. Saadia Binte Alam",
+        "position": "Associate Professor and Head",
+        "department": "Computer Science & Engineering",
+        "email": "saadiabinte@iub.edu.bd",
+        "room": "BC 5007D"
+    }
+]
