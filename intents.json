@@ -2606,6 +2606,197 @@
 			]
 		},
 		{
+			"tag": "departmentheadofaccounting",
+			"patterns": [
+				"Who is the department head of accounting Department?",
+				"What is the name of the department head of accounting Department?"
+			],
+			"responses": [
+				"Dr. Maqbool Kader Quraishi"
+			]
+		},
+		{
+			"tag": "departmentheadoffecnomics",
+			"patterns": [
+				"Who is the department head of ecnomics Department?",
+				"What is the name of the department head of ecnomics Department?"
+			],
+			"responses": [
+				"Dr. Md Khaled Saifullah"
+			]
+		},
+		{
+			"tag": "departmentheadoffinance",
+			"patterns": [
+				"Who is the department head of finance Department?",
+				"What is the name of the department head of finance Department?"
+			],
+			"responses": [
+				"Dr. Imtiaz Ahmed Nevin"
+			]
+		},
+		{
+			"tag": "departmentheadofmanagement",
+			"patterns": [
+				"Who is the department head of management Department?",
+				"What is the name of the department head of General Management Department?"
+			],
+			"responses": [
+				"Dr. Md Mamun Habib"
+			]
+		},
+		{
+			"tag": "departmentheadofhr",
+			"patterns": [
+				"Who is the department head of hr Department?",
+				"What is the name of the department head of Human Resource Management Department?"
+			],
+			"responses": [
+				"Dr. Ikramul Hasan"
+			]
+		},
+		{
+			"tag": "departmentheadofinternationalbusiness",
+			"patterns": [
+				"Who is the department head of International Business Department?",
+				"What is the name of the department head of International Business Department?"
+			],
+			"responses": [
+				"Dr. Safayet Rahman"
+			]
+		},
+		{
+			"tag": "departmentheadofinformation_systems",
+			"patterns": [
+				"Who is the department head of Information Systems Department?",
+				"What is the name of the department head of Management Information Systems?"
+			],
+			"responses": [
+				"Dr. Nushrat Jahan"
+			]
+		},
+		{
+			"tag": "departmentheadofMarketing",
+			"patterns": [
+				"Who is the department head of Marketing Department?",
+				"What is the name of the department head of Marketing Systems?"
+			],
+			"responses": [
+				"Dr. S M Sohel Rana"
+			]
+		},
+		{
+			"tag": "departmentheadofEEE",
+			"patterns": [
+				"Who is the department head of EEE Department?",
+				"Who is the department head of Electrical and Electronic Engineering Department?",
+				"What is the name of the department head of Electrical and Electronic Engineering?"
+			],
+			"responses": [
+				"Dr. Mustafa Habib Chowdhury"
+			]
+		},
+		{
+			"tag": "departmentheadofpharmacy",
+			"patterns": [
+				"Who is the department head of Pharmacy department?",
+				"What is the name of the department head of Pharmacy Department?"
+			],
+			"responses": [
+				"Dr. Md Josim Uddinm"
+			]
+		},
+		{
+			"tag": "departmentheadofpublichealth",
+			"patterns": [
+				"Who is the department head of PH department?",
+				"Who is the department head of Public Health department?",
+				"What is the name of the department head of Public Health Department?"
+			],
+			"responses": [
+				"Dr. Zenat Zebin Hossain"
+			]
+		},
+Naureen Rahnuma, PhD
+{
+			"tag": "departmentheadofenglish",
+			"patterns": [
+				"Who is the department head of English department?",
+				"Who is the department head of English and Modern Languages department?",
+				"What is the name of the department head of English and Modern Languages Department?"
+			],
+			"responses": [
+				"Dr. Naureen Rahnuma"
+			]
+		},
+		{
+			"tag": "departmentheadofglobalstudies",
+			"patterns": [
+				"Who is the department head of GSG department?",
+				"Who is the department head of Global Studies and Governance department?",
+				"What is the name of the department head of Global Studies and Governance Department?"
+			],
+			"responses": [
+				"Dr. Marufa Akter"
+			]
+		},
+		{
+			"tag": "departmentheadofsocialsciences_humanities",
+			"patterns": [
+				"Who is the department head of SSH department?",
+				"Who is the department head of Social Science department?",
+				"Who is the department head of Humanities department?",
+				"Who is the department head of Social Sciences and Humanities department?",
+				"What is the name of the department head of Social Sciences and Humanities Department?"
+			],
+			"responses": [
+				"Dr. Kazi Mahmudur Rahman"
+			]
+		},
+		{
+			"tag": "departmentheadoflaw",
+			"patterns": [
+				"Who is the department head of Law department?",
+				"What is the name of the department head of Law Department?"
+			],
+			"responses": [
+				"Dr. Muhammad Mahbubur Rahman"
+			]
+		},
+		{
+			"tag": "departmentheadoflifesciences",
+			"patterns": [
+				"Who is the department head of LS department?",
+				"Who is the department head of Life Sciences department?",
+				"What is the name of the department head of Life Sciences Department?"
+			],
+			"responses": [
+				"Dr. Ashrafus Safa"
+			]
+		},
+		{
+			"tag": "departmentheadofenv",
+			"patterns": [
+				"Who is the department head of ENV department?",
+				"Who is the department head of Environmental Science and Management department?",
+				"What is the name of the department head of Environmental Science and Management Department?"
+			],
+			"responses": [
+				"Dr. Ashrafus Safa"
+			]
+		},
+		{
+			"tag": "departmentheadofphysics",
+			"patterns": [
+				"Who is the department head of PS department?",
+				"Who is the department head of Physical Sciences department?",
+				"What is the name of the department head of Physical Sciences Department?"
+			],
+			"responses": [
+				"Dr. Farhad Alam"
+			]
+		},
+		{
 			"tag": "Scholarship",
 			"patterns": [
 				"tell me about scholarship details"
