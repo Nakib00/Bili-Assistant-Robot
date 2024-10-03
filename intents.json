@@ -215,11 +215,47 @@
 		{
 			"tag": "mahadyhasan",
 			"patterns": [
-				"Who is Mahady Hasan?",
+				"Who is Mehdi Hassan?",
 				"Can you please tell me details of Dr. Mahady Hasan?",
 				"Tell me about Mahady Hasan from CSE",
 				"Info of Mahady Hasan",
-				"Please provide information on Mahady Hasan from the CSE Department"
+				"Please provide information on Mahady Hasan from the CSE Department",
+				"Can you give me details about Mahady Hasan?",
+				"What can you tell me about Dr. Mahadi Hassan?",
+				"Who is Dr. Mahadi Hasan?",
+				"Info about Mahady Hasaan",
+				"Tell me more about Mahdi Hassan from the Computer Science Department",
+				"Details about Mahadi Hasan",
+				"Can you tell me something about Mahady Hasan?",
+				"Mahady Hasan information",
+				"Who is Mahadi Hassan in the CSE Department?",
+				"What are the details of Dr. Mahadi Hasan?",
+				"Can I get information on Mahady Hasan?",
+				"Provide me with details about Mahadi Hasan",
+				"Tell me about the academic background of Mahady Hasan",
+				"What is Mahady Hasan's email address?",
+				"Mahady Hasaan details",
+				"Is there any info on Mahdi Hasan?",
+				"Can you share details about Dr. Mahady Hasan?",
+				"Who is Mahady?",
+				"What are Dr. Mahady Hasan's qualifications?",
+				"Who is Mahady Hasaan?",
+				"Can you tell me about Mahadi?",
+				"More information about Mahady Hasan from CSE",
+				"Who is the associate professor Mahady Hasan?",
+				"Any details on Mahady Hasan?",
+				"Give me the background of Mahady Hasan",
+				"Tell me about Mahadi Hasan's research interests",
+				"Mahadi Hasan's contact information",
+				"What does Dr. Mahady Hasan teach?",
+				"What is the contact information for Mahady Hasan?",
+				"Could you provide details on Mahady?",
+				"Who is Mahady from the CSE Department?",
+				"What is the role of Mahady Hasan at IUB?",
+				"More about Dr. Mahady Hasan",
+				"Tell me the office location of Mahady Hasan",
+				"Mahady Hasan's profile",
+				"Who is the Dr. Mahadi Hassan in Computer Science?"
 			],
 			"responses": [
 				"Dr. Mahady Hasan is an Associate Professor in the Computer Science & Engineering Department (CSE). His Room: BC 6001, E-mail: mahady@iub.edu.bd"
@@ -1673,20 +1709,20 @@
 			]
 		},
 		{
-			"tag": "MdTanvirIslam",
+			"tag": "tanvirislam",
 			"patterns": [
-				"Can you tell me details about Md Tanvir Islam?",
-				"Please provide information on Md Tanvir Islam from Accounting?"
+				"Can you tell me details about Tanvir Islam?",
+				"Please provide information on Tanvir Islam from Accounting?"
 			],
 			"responses": [
 				"Md. Tanvir Islam is a Lecturer B at the Department of Accounting. His office is located at Room BC 4004, and his email is tanvir@iub.edu.bd."
 			]
 		},
 		{
-			"tag": "MdKhaledSaifullah",
+			"tag": "khaledsaifullah",
 			"patterns": [
-				"Can you tell me details about Md Khaled Saifullah?",
-				"Please provide information on Dr Md Khaled Saifullah from Economics?"
+				"Can you tell me details about Khaled Saifullah?",
+				"Please provide information on Khaled Saifullah from Economics?"
 			],
 			"responses": [
 				"Dr. Md Khaled Saifullah is an Assistant Professor and Head of the Department of Economics. His office is located at Room BC 3006B, and his email is khaled@iub.edu.bd."
@@ -3092,6 +3128,930 @@
 			]
 		},
 		{
+			"tag": "InstitutesCenters_Cells",
+			"patterns": [
+				"tell me about Institutes",
+				"Institutes, Centers & Cells in IUB",
+				"what are the institutes at IUB",
+				"list the centers and cells at IUB",
+				"institutes and research centers in IUB",
+				"can you provide information on IUB institutes and centers",
+				"IUB centers and cells information",
+				"which institutes are available at IUB"
+			],
+			"responses": [
+				"International Centre for Climate Change and Development, Center for Computational and Data Sciences, Center for Industrial Automation Robotics & Internet of Things, Centre for Bay of Bengal Studies, Centre for Social Science Research, English Language Resource Center, Fab Lab IUB, Green Energy Research Center, Institutional Quality Assurance Cell, Kazi Nazrul Islam and Abbasuddin Ahmed Research and Study Center, Office of the Graduate Studies, Research and Industrial Relations, Sasheen Center for Multilingual Excellence, King Sejong Institute (KSI)"
+			]
+		},
+		{
+			"tag": "international_Centre_Climate_Change_Development",
+			"patterns": [
+				"tell me about International Centre for Climate Change and Development",
+				"International Centre for Climate Change and Development",
+				"International Centre Climate Change and Development",
+				"International Centre for Climate Change and Development in iub",
+				"Climate Change and Development",
+				"icccad",
+				"what is icccad"
+			],
+			"responses": [
+				"The International Centre for Climate Change and Development (ICCCAD) is one of the leading research and capacity building organizations working on climate change and development in Bangladesh. ICCCAD’s aim is to develop a world-class institution that is closely related to local experience, knowledge and research in one of the countries that is most affected by climate change."
+			]
+		},
+		{
+			"tag": "Center_Computational_Data_Sciences",
+			"patterns": [
+				"tell me about Center for Computational and Data Sciencest",
+				"Center for Computational and Data Sciences",
+				"Center for Computational and Data Sciences",
+				"Center for Computational and Data Sciences in iub",
+				"ccds",
+				"what is ccds"
+			],
+			"responses": [
+				"The CCDS focuses on driving transformative progress through research, technology, and human-centric design. Its mission is to advance scientific exploration and decision-making by harnessing computational and data-driven methods. CCDS aims to lead the Fourth Industrial Revolution, foster innovation in industrial automation, and support systems while ensuring ethical technology adoption that prioritizes privacy and mitigates bias for societal well-being."
+			]
+		},
+		{
+			"tag": "RIoT_Research_Center",
+			"patterns": [
+				"riot",
+				"riot research center",
+				"what is riot research center"
+			],
+			"responses": [
+				"Established in 2022 at Independent University, Bangladesh (IUB), the RIoT Center focuses on frontier technologies like Industrial Automation, Robotics, IoT, Cyber Security, AI, and Smart System Design. The center serves as a multidisciplinary hub for students, faculty, and the wider community, offering industry-standard training, workshops, and certifications. It aims to produce skilled professionals for the Fourth Industrial Revolution (4IR) through hands-on labs in Robotics, Industrial Automation, Networking, IoT, and AI. The center also supports cutting-edge research and fosters industry collaboration."
+			]
+		},
+		{
+			"tag": "Centre_Bay_Bengal_Studies",
+			"patterns": [
+				"Bay of Bengal Studies",
+				"what is Bay of Bengal Studies"
+			],
+			"responses": [
+				"The Center for Bay of Bengal Studies, founded by Independent University, Bangladesh in 2020, is dedicated to advancing research on the Bay of Bengal. It focuses on environmental sustainability, the blue economy, and fostering collaboration among scholars, policymakers, and practitioners to build a knowledge-driven community in the region."
+			]
+		},
+		{
+			"tag": "Social_Science_Research",
+			"patterns": [
+				"Social Science Research",
+				"what is Social Science Research",
+				"cssr"
+			],
+			"responses": [
+				"The Centre for Social Science Research (CSSR) at Independent University, Bangladesh (IUB), established in 2013 under the School of Liberal Arts and Social Sciences, focuses on high-quality social science research. It has been recognized as a sub-project under the World Bank-funded Higher Education Quality Enhancement Project (HEQEP), supervised by the University Grants Commission of Bangladesh."
+			]
+		},
+		{
+			"tag": "English_Language_Resource_Center",
+			"patterns": [
+				"English Language Resource Center",
+				"what is English Language Resource Center",
+				"elrc"
+			],
+			"responses": [
+				"The ELRC provides English language services to help students enhance their language skills for academic success. It offers various learning resources, including an Online Language Support Hub with access to online language materials, supporting versatile language learning."
+			]
+		},
+		{
+			"tag": "Fab_Lab_IUB",
+			"patterns": [
+				"Fab Lab",
+				"what is Fab Lab IUB",
+				"Fab Lab IUB"
+			],
+			"responses": [
+				"Fab Lab is part of a global network of makers, artists, designers, and entrepreneurs initiated by the FAB Foundation and MIT. It offers fabrication facilities for creating everything from prototypes to industrial solutions, aiming to equip individuals and organizations with practical, industry-relevant skills."
+			]
+		},
+		{
+			"tag": "Green_Energy_Research_Center",
+			"patterns": [
+				"Green Energy Research Center",
+				"what is Green Energy Research Center"
+			],
+			"responses": [
+				"The Green Energy Research Center at IUB researches renewable energy and develops technologies like solar inverters. It collaborates with industries, organizes competitions, and hosts seminars to promote sustainable energy solutions in Bangladesh."
+			]
+		},
+		{
+			"tag": "Institutional_Quality_Assurance_Cell",
+			"patterns": [
+				"Institutional Quality Assurance Cell",
+				"what is Institutional Quality Assurance Cell",
+				"iqac"
+			],
+			"responses": [
+				"The Institutional Quality Assurance Cell (IQAC) at IUB operates under the Vice Chancellor's supervision and receives guidance from the Quality Assurance Unit (QAU) at the UGC, Bangladesh. It facilitates communication between academic units and degree programs through Self-Assessment Committees and engages with the Bangladesh Accreditation Council (BAC)."
+			]
+		},
+		{
+			"tag": "Nazrul_Islam_Abbasuddin_Ahmed_Research_Study Center",
+			"patterns": [
+				"Institutional Quality Assurance Cell",
+				"Kazi Nazrul Islam Research and Study Center",
+				"what is Institutional Quality Assurance Cell",
+				"Abbasuddin Ahmed Research and Study Center",
+				"KNIAARSC"
+			],
+			"responses": [
+				"Established in 2012, the Kazi Nazrul Islam and Abbasuddin Ahmed Research and Study Centre (KNIAARSC) celebrates the contributions of national poet Kazi Nazrul Islam and folk singer Abbasuddin Ahmed. It promotes liberal values such as equality, freedom, and tolerance through events and research. The center emphasizes liberal arts by integrating literature, music, and cultural heritage into education, led by Prof. Ahmed Ahsanuzaman with Prof. Niaz Zaman as advisor."
+			]
+		},
+		{
+			"tag": "Office_Graduate_Studies_Research_Industrial_Relations",
+			"patterns": [
+				"Graduate Studies, Research and Industrial Relations",
+				"what is Graduate Studies, Research and Industrial Relations",
+				"GSRIR"
+			],
+			"responses": [
+				"To meet the evolving needs of the industry, IUB has established the Office of Graduate Studies, Research, and Industry Relations (GSRIR). This office aims to prepare graduates for industry roles, address industrial challenges through customized master’s programs, and promote research that supports industrial growth."
+			]
+		},
+		{
+			"tag": "Center_Multilingual_Excellence",
+			"patterns": [
+				"Center for Multilingual Excellence",
+				"what is Center for Multilingual Excellence",
+				"GSRIR"
+			],
+			"responses": [
+				"The Center for Multilingual Excellence at IUB fosters a linguistically versatile academic culture to produce globally competent graduates. It promotes linguistic and cultural diversity by facilitating global language learning, enhancing intercultural communication, and preserving endangered languages through research, innovation, and community engagement."
+			]
+		},
+		{
+			"tag": "King_Sejong_Institute",
+			"patterns": [
+				"King Sejong Institute",
+				"what is King Sejong Institute",
+				"ksi"
+			],
+			"responses": [
+				"The King Sejong Institute Dhaka 2 at IUB promotes Korean language and culture in Bangladesh as part of a global network established by the South Korean government. Recognized in 2022, the institute offers immersive courses for all proficiency levels, taught by experienced native instructors."
+			]
+		},
+		{
+			"tag": "OECE",
+			"patterns": [
+				"Tell me about OECE?",
+				"What is OECE?",
+				"Can you explain what OECE is?",
+				"What does the OECE do?"
+			],
+			"responses": [
+				"OECE provides educational services to those who may not have access, offering experiences in schools, libraries, and more, while supporting the development of professionals working with young people."
+			]
+		},
+		{
+			"tag": "CGP&AR",
+			"patterns": [
+				"Tell me about CGP&AR?",
+				"What is CGP&AR?",
+				"What does Career Guidance Placement and Alumni Relations do?",
+				"Can you explain what CGP&AR is?"
+			],
+			"responses": [
+				"CGP&AR organizes career events, connects students with employers, and provides networking opportunities, internships, and job placements through its extensive network. Mobile: 01709963681, Email: cgp@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "LFE",
+			"patterns": [
+				"Tell me about LFE?",
+				"What is LFE?",
+				"What does Live-in-Field Experience mean?",
+				"Can you explain the LFE program?"
+			],
+			"responses": [
+				"The LFE program immerses students in rural Bangladesh to understand socio-economic realities, helping them make informed decisions for both urban and rural development."
+			]
+		},
+		{
+			"tag": "TanvirAhmedHaroon",
+			"patterns": [
+				"Could you tell me about Tanvir Ahmed Haroon?",
+				"Who is the co-ordinator of the LFE program?",
+				"What is Tanvir Ahmed Haroon's contact information?",
+				"Tell me about Tanvir Ahmed Haroon from IUB."
+			],
+			"responses": [
+				"Tanvir Ahmed Haroon is the Co-ordinator of the LFE Program and Senior Lecturer in the Department of Environmental Science and Management. Room: BC 9007, Mobile: +88-01715158457, Email: lfe@iub.edu.bd, taharoon@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "SharmeenIslam",
+			"patterns": [
+				"Could you tell me about Sharmeen Islam?",
+				"Who is the Assistant Director of CGP&AR?",
+				"What is Sharmeen Islam's contact information?",
+				"Tell me about Sharmeen Islam from IUB."
+			],
+			"responses": [
+				"Sharmeen Islam is the Assistant Director of CGP&AR. Room: 1011, Email: sharmeen@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "FarjanaHafiz",
+			"patterns": [
+				"Could you tell me about Farjana Hafiz?",
+				"Who is the Career Counselor at CGP&AR?",
+				"What is Farjana Hafiz's contact information?",
+				"Tell me about Farjana Hafiz from IUB."
+			],
+			"responses": [
+				"Farjana Hafiz is a Career Counselor at CGP&AR. Room: 1011, Office Extension: 1452, Email: farjana@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MuktaRaniNath",
+			"patterns": [
+				"Could you tell me about Mukta Rani Nath?",
+				"Who is the Assistant Career Counselor at CGP&AR?",
+				"What is Mukta Rani Nath's contact information?",
+				"Tell me about Mukta Rani Nath from IUB."
+			],
+			"responses": [
+				"Mukta Rani Nath is the Assistant Career Counselor at CGP&AR. Room: 1011, Email: muktarani@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "ShakibShadman",
+			"patterns": [
+				"Could you tell me about Shakib Shadman?",
+				"Who is the Office Manager of the Dept. of Pharmacy?",
+				"What is Shakib Shadman's contact information?",
+				"Tell me about Shakib Shadman from IUB."
+			],
+			"responses": [
+				"Shakib Shadman is the Office Manager of the Dept. of Pharmacy. Room: BC 9024, Email: shakib@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "MdEmrulArefin",
+			"patterns": [
+				"Could you tell me about Md Emrul Arefin?",
+				"Who is the Office Manager of the Dept. of Public Health?",
+				"What is Md Emrul Arefin's contact information?",
+				"Tell me about Md Emrul Arefin from IUB."
+			],
+			"responses": [
+				"Md Emrul Arefin is the Office Manager of the Dept. of Public Health. Room: BC 10001, Email: arefin@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "AninditaNaha",
+			"patterns": [
+				"Could you tell me about Anindita Naha?",
+				"Who is the Office Manager of the Dept. of English and Modern Languages?",
+				"What is Anindita Naha's contact information?",
+				"Tell me about Anindita Naha from IUB."
+			],
+			"responses": [
+				"Anindita Naha is the Office Manager of the Dept. of English and Modern Languages. Room: BC 8007, Email: anindita_12@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "ParisaAlam",
+			"patterns": [
+				"Could you tell me about Parisa Alam?",
+				"Who is in the Dept. of Global Studies and Governance?",
+				"What is Parisa Alam's contact information?",
+				"Tell me about Parisa Alam from IUB."
+			],
+			"responses": [
+				"Parisa Alam is in the Dept. of Global Studies and Governance. Room: BC 7009-B, Email: parisa.a@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "FaqihaMustafaAnannya",
+			"patterns": [
+				"Could you tell me about Faqiha Ta-Seen Mustafa Anannya?",
+				"Who is the Office Manager of the Dept. of Social Sciences and Humanities?",
+				"What is Faqiha Ta-Seen Mustafa Anannya's contact information?",
+				"Tell me about Faqiha Ta-Seen Mustafa Anannya from IUB."
+			],
+			"responses": [
+				"Faqiha Ta-Seen Mustafa Anannya is the Office Manager of the Dept. of Social Sciences and Humanities. Room: 7006, Email: taseen@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "RashedaKhan",
+			"patterns": [
+				"Could you tell me about Rasheda Khan?",
+				"Who is the Program Manager of the Dept. of Law?",
+				"What is Rasheda Khan's contact information?",
+				"Tell me about Rasheda Khan from IUB."
+			],
+			"responses": [
+				"Rasheda Khan is the Program Manager of the Dept. of Law. Room: C 9010, Email: rasheda@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "SharminMushtariKhan",
+			"patterns": [
+				"Could you tell me about Sharmin Mushtari Khan?",
+				"Who is the Office Manager of the Dept. of Law?",
+				"What is Sharmin Mushtari Khan's contact information?",
+				"Tell me about Sharmin Mushtari Khan from IUB."
+			],
+			"responses": [
+				"Sharmin Mushtari Khan is the Office Manager of the Dept. of Law. Room: C 9009, Email: smushtari@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "TajminaAzmeri",
+			"patterns": [
+				"Could you tell me about Tajmina Azmeri?",
+				"Who is the Office Manager of the Dept. of Environmental Science and Management?",
+				"What is Tajmina Azmeri's contact information?",
+				"Tell me about Tajmina Azmeri from IUB."
+			],
+			"responses": [
+				"Tajmina Azmeri is the Office Manager of the Dept. of Environmental Science and Management. Room: 9006, Email: tajmina@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "AlNuman",
+			"patterns": [
+				"Could you tell me about Al Numan?",
+				"Who is the Research & Development Officer in the Dept. of Life Sciences?",
+				"What is Al Numan's contact information?",
+				"Tell me about Al Numan from IUB."
+			],
+			"responses": [
+				"Al Numan is the Research & Development Officer in the Dept. of Life Sciences. Room: 10002A, Email: alnuman@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "TanjimaHoqueTrisha",
+			"patterns": [
+				"Could you tell me about Tanjima Hoque Trisha?",
+				"Who is the Office Manager of the Dept. of Life Sciences?",
+				"What is Tanjima Hoque Trisha's contact information?",
+				"Tell me about Tanjima Hoque Trisha from IUB."
+			],
+			"responses": [
+				"Tanjima Hoque Trisha is the Office Manager of the Dept. of Life Sciences. Room: BC 10012-A, Email: tanjima@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "ShahinaAnsary",
+			"patterns": [
+				"Could you tell me about Shahina Ansary?",
+				"Who is the Program Manager of the Dept. of Life Sciences?",
+				"What is Shahina Ansary's contact information?",
+				"Tell me about Shahina Ansary from IUB."
+			],
+			"responses": [
+				"Shahina Ansary is the Program Manager of the Dept. of Life Sciences. Room: BC 10012A, Email: shahina@iub.edu.bd"
+			]
+		},
+		{
+			"tag": "IUBClubs",
+			"patterns": [
+				"How many clubs are there at IUB?",
+				"What is the total number of clubs in IUB?",
+				"Can you tell me the number of clubs at Independent University, Bangladesh?"
+			],
+			"responses": [
+				"There are a total of 36 clubs at Independent University, Bangladesh (IUB)."
+			]
+		},
+		{
+			"tag": "GlobalGatekeepers",
+			"patterns": [
+				"Tell me about the Global Gatekeepers club at IUB.",
+				"What is Global Gatekeepers?"
+			],
+			"responses": [
+				"Global Gatekeepers is a club focused on engagement and global awareness."
+			]
+		},
+		{
+			"tag": "IEEEComputerSociety",
+			"patterns": [
+				"What does the IEEE Computer Society do?",
+				"Tell me about the IEEE Computer Society at IUB."
+			],
+			"responses": [
+				"The IEEE Computer Society at IUB is dedicated to innovation in technology and computing."
+			]
+		},
+		{
+			"tag": "IEEEStudentBranch",
+			"patterns": [
+				"What is the IEEE IUB Student Branch?",
+				"Tell me about the IEEE Student Branch."
+			],
+			"responses": [
+				"The IEEE IUB Student Branch is a community for students interested in electrical and computer engineering."
+			]
+		},
+		{
+			"tag": "IndependentAccountingAssociation",
+			"patterns": [
+				"Tell me about the Independent Accounting Association.",
+				"What activities does the Independent Accounting Association engage in?"
+			],
+			"responses": [
+				"The Independent Accounting Association (IAA) focuses on fostering knowledge in accounting and finance."
+			]
+		},
+		{
+			"tag": "IndependentBetaElites",
+			"patterns": [
+				"What is the Independent Beta Elites club?",
+				"Tell me about the Beta Elites at IUB."
+			],
+			"responses": [
+				"Independent Beta Elites is a club dedicated to excellence in business and entrepreneurship."
+			]
+		},
+		{
+			"tag": "IndependentEconomicSociety",
+			"patterns": [
+				"What does the Independent Economic Society do?",
+				"Tell me about the Economic Society at IUB."
+			],
+			"responses": [
+				"The Independent Economic Society promotes discussions and events around economic issues."
+			]
+		},
+		{
+			"tag": "IndependentHRSociety",
+			"patterns": [
+				"What is the Independent HR Society?",
+				"Tell me about the HR Society at IUB."
+			],
+			"responses": [
+				"The Independent HR Society (IHRS) focuses on human resource management and career development."
+			]
+		},
+		{
+			"tag": "IndependentInternationalBusinessForum",
+			"patterns": [
+				"Tell me about the Independent International Business Forum.",
+				"What does IIBF do at IUB?"
+			],
+			"responses": [
+				"The Independent International Business Forum (IIBF) encourages discussions on global business practices."
+			]
+		},
+		{
+			"tag": "IndependentManagementEntrepreneurshipClub",
+			"patterns": [
+				"What is IMEC?",
+				"Tell me about the Independent Management and Entrepreneurship Club."
+			],
+			"responses": [
+				"IMEC focuses on entrepreneurship and management skills for students."
+			]
+		},
+		{
+			"tag": "IndependentMarketersAssociation",
+			"patterns": [
+				"What does the Independent Marketers’ Association do?",
+				"Tell me about the Marketers' Association at IUB."
+			],
+			"responses": [
+				"The Independent Marketers’ Association promotes marketing knowledge and strategies."
+			]
+		},
+		{
+			"tag": "IndependentPhotographyClub",
+			"patterns": [
+				"Tell me about the Independent Photography Club.",
+				"What activities does the IPC engage in?"
+			],
+			"responses": [
+				"The Independent Photography Club (IPC) is dedicated to photography enthusiasts and their skills development."
+			]
+		},
+		{
+			"tag": "IUBACMStudentChapter",
+			"patterns": [
+				"What is the IUB ACM Student Chapter?",
+				"Tell me about the ACM Student Chapter."
+			],
+			"responses": [
+				"The IUB ACM Student Chapter promotes computer science education and community."
+			]
+		},
+		{
+			"tag": "IUBArtClub",
+			"patterns": [
+				"Tell me about the IUB Art Club.",
+				"What activities are held by the Art Club?"
+			],
+			"responses": [
+				"The IUB Art Club is for students interested in various forms of art and creative expression."
+			]
+		},
+		{
+			"tag": "IUBBadmintonClub",
+			"patterns": [
+				"What does the IUB Badminton Club do?",
+				"Tell me about badminton activities at IUB."
+			],
+			"responses": [
+				"The IUB Badminton Club organizes training and competitions for badminton enthusiasts."
+			]
+		},
+		{
+			"tag": "IUBBasketballClub",
+			"patterns": [
+				"What is the IUB Basketball Club?",
+				"Tell me about basketball activities at IUB."
+			],
+			"responses": [
+				"The IUB Basketball Club engages students in playing and competing in basketball."
+			]
+		},
+		{
+			"tag": "IUBChessClub",
+			"patterns": [
+				"Tell me about the IUB Chess Club.",
+				"What activities are offered by the Chess Club?",
+				"Chess Club",
+				"IUB Chess Club"
+			],
+			"responses": [
+				"The IUB Chess Club promotes chess playing and skills development."
+			]
+		},
+		{
+			"tag": "IUBCricketClub",
+			"patterns": [
+				"What does the IUB Cricket Club do?",
+				"Tell me about cricket activities at IUB."
+			],
+			"responses": [
+				"The IUB Cricket Club organizes matches and training for cricket enthusiasts."
+			]
+		},
+		{
+			"tag": "IUBDanceClub",
+			"patterns": [
+				"What is the IUB Dance Club?",
+				"Tell me about the Dance Club at IUB.",
+				"Dance Club",
+				"IUB Dance Club"
+			],
+			"responses": [
+				"The IUB Dance Club engages students in various dance forms and performances."
+			]
+		},
+		{
+			"tag": "IUBDebateClub",
+			"patterns": [
+				"Tell me about the IUB Debate Club.",
+				"What activities does the Debate Club engage in?",
+				"Debate Club",
+				"IUB Debate Club"
+			],
+			"responses": [
+				"The IUB Debate Club promotes critical thinking and public speaking through debates."
+			]
+		},
+		{
+			"tag": "IUBEnglishLanguageClub",
+			"patterns": [
+				"What does the IUB English Language Club do?",
+				"Tell me about the English Language Club at IUB.",
+				"English Club"
+			],
+			"responses": [
+				"The IUB English Language Club focuses on improving English language skills."
+			]
+		},
+		{
+			"tag": "IUBEsportsClub",
+			"patterns": [
+				"What is the IUB Esports Club?",
+				"Tell me about esports activities at IUB."
+			],
+			"responses": [
+				"The IUB Esports Club is for students interested in competitive gaming and esports."
+			]
+		},
+		{
+			"tag": "IUBFootballClub",
+			"patterns": [
+				"What does the IUB Football Club do?",
+				"Tell me about football activities at IUB.",
+				"Football Club"
+			],
+			"responses": [
+				"The IUB Football Club organizes matches and training for football enthusiasts."
+			]
+		},
+		{
+			"tag": "IUBJournalismClub",
+			"patterns": [
+				"Tell me about the IUB Journalism Club.",
+				"What activities are offered by the Journalism Club?",
+				"Journalism Club"
+			],
+			"responses": [
+				"The IUB Journalism Club promotes journalism and media skills among students."
+			]
+		},
+		{
+			"tag": "IUBKClub",
+			"patterns": [
+				"What is the IUB K Club?",
+				"Tell me about K Club activities at IUB.",
+				"K Club"
+			],
+			"responses": [
+				"The IUB K-Club engages students in Korean culture and language."
+			]
+		},
+		{
+			"tag": "IUBMusicClub",
+			"patterns": [
+				"Tell me about the IUB Music Club.",
+				"What activities does the Music Club engage in?"
+			],
+			"responses": [
+				"The IUB Music Club is for students interested in music and performances."
+			]
+		},
+		{
+			"tag": "IUBPharmaClub",
+			"patterns": [
+				"What is the IUB Pharma Club?",
+				"Tell me about the Pharma Club at IUB."
+			],
+			"responses": [
+				"The IUB Pharma Club promotes pharmaceutical knowledge and activities."
+			]
+		},
+		{
+			"tag": "IUBTableTennisClub",
+			"patterns": [
+				"What does the IUB Table Tennis Club do?",
+				"Tell me about table tennis activities at IUB."
+			],
+			"responses": [
+				"The IUB Table Tennis Club organizes matches and training for table tennis enthusiasts."
+			]
+		},
+		{
+			"tag": "IUBTheatre",
+			"patterns": [
+				"What is the IUB Theatre club?",
+				"Tell me about theatre activities at IUB."
+			],
+			"responses": [
+				"The IUB Theatre club engages students in theatrical performances and drama."
+			]
+		},
+		{
+			"tag": "IUBToastmastersClub",
+			"patterns": [
+				"Tell me about the IUB Toastmasters Club.",
+				"What activities does the Toastmasters Club offer?"
+			],
+			"responses": [
+				"The IUB Toastmasters Club focuses on public speaking and leadership skills."
+			]
+		},
+		{
+			"tag": "Jukti",
+			"patterns": [
+				"What is Jukti?",
+				"Tell me about the Jukti club at IUB."
+			],
+			"responses": [
+				"Jukti - The IUB CSE Club is dedicated to computer science and engineering students."
+			]
+		},
+		{
+			"tag": "DEA_IUB",
+			"patterns": [
+				"Tell me about the Duke of Edinburgh's Award at IUB.",
+				"What is DEA IUB?"
+			],
+			"responses": [
+				"The Duke of Edinburgh's International Award at IUB encourages personal development and community service."
+			]
+		},
+		{
+			"tag": "Meemnaz_Meem",
+			"patterns": [
+				"Can you tell me about Meemnaz Meem?",
+				"What is the role of Meemnaz Meem in the Dept. of Economics?",
+				"Who is the Office Manager in the School of Business and Entrepreneurship?"
+			],
+			"responses": [
+				"Meemnaz Meem is the Office Manager in the Dept. of Economics, School of Business and Entrepreneurship. You can reach her at meemnaz@iub.edu.bd, and her office is located in Room BC 3001."
+			]
+		},
+		{
+			"tag": "Nazmus_Sakib",
+			"patterns": [
+				"Tell me about Nazmus Sakib.",
+				"Who is the Research & Development Officer in the EEE department?"
+			],
+			"responses": [
+				"Nazmus Sakib is the Research & Development Officer in the Dept. of Electrical and Electronic Engineering. You can contact him at n.sakib@iub.edu.bd, and his office is located in Room BC Basement-2, EEE Lab."
+			]
+		},
+		{
+			"tag": "Md_Shirazul_Islam",
+			"patterns": [
+				"Who is Md Shirazul Islam?",
+				"What is the role of Md Shirazul Islam in the EEE department?"
+			],
+			"responses": [
+				"Md Shirazul Islam is a Technical Officer in the Dept. of Electrical and Electronic Engineering. His email is shirazul@iub.edu.bd, and his office is in Room BC 5018."
+			]
+		},
+		{
+			"tag": "Md_Abdul_Maleq",
+			"patterns": [
+				"Who is Md Abdul Maleq?",
+				"What role does Md Abdul Maleq play in the EEE department?"
+			],
+			"responses": [
+				"Md Abdul Maleq is the Senior Technical Officer in the Dept. of Electrical and Electronic Engineering. His email is amaleq@iub.edu.bd, and he is located in Room BC 5016."
+			]
+		},
+		{
+			"tag": "Abu_Hasnat_Md_Rased",
+			"patterns": [
+				"Tell me about Abu Hasnat Md Rased.",
+				"What is the position of Rased in the EEE department?"
+			],
+			"responses": [
+				"Abu Hasnat Md Rased is a Lab Technician in the Dept. of Electrical and Electronic Engineering. You can contact him at rased@iub.edu.bd, and his office is in Room BC 5017."
+			]
+		},
+		{
+			"tag": "Mahmuda",
+			"patterns": [
+				"Who is Mahmuda?",
+				"What is Mahmuda's role in the EEE department?"
+			],
+			"responses": [
+				"Mahmuda is a Research & Development Officer in the Dept. of Electrical and Electronic Engineering. You can reach her at mahmudarajbd83@iub.edu.bd."
+			]
+		},
+		{
+			"tag": "Md_Siddik",
+			"patterns": [
+				"Tell me about Md Siddik.",
+				"What does Md Siddik do in the EEE department?"
+			],
+			"responses": [
+				"Md Siddik is a Lab Technician in the Dept. of Electrical and Electronic Engineering. His email is siddik@iub.edu.bd."
+			]
+		},
+		{
+			"tag": "Salsabil_Shama",
+			"patterns": [
+				"Who is Salsabil Shama?",
+				"What is the role of Salsabil Shama in the EEE department?"
+			],
+			"responses": [
+				"Salsabil Shama is the Office Manager in the Dept. of Electrical and Electronic Engineering. You can contact her at salsabil@iub.edu.bd, and her office is located in Room BC 5001B."
+			]
+		},
+		{
+			"tag": "Md_Ahad_Khan",
+			"patterns": [
+				"Tell me about Md. Ahad Khan.",
+				"What role does Md. Ahad Khan play in the CSE department?"
+			],
+			"responses": [
+				"Md. Ahad Khan works in the Dept. of Computer Science and Engineering. You can reach him at ahad@iub.edu.bd."
+			]
+		},
+		{
+			"tag": "Nahida_Akhtar",
+			"patterns": [
+				"Who is Nahida Akhtar?",
+				"What is Nahida Akhtar's position in the CSE department?"
+			],
+			"responses": [
+				"Nahida Akhtar is a staff member in the Dept. of Computer Science and Engineering. Her email is nahida@iub.edu.bd."
+			]
+		},
+		{
+			"tag": "Sarwar_Shahidi",
+			"patterns": [
+				"Tell me about Sarwar Shahidi.",
+				"What is the role of Sarwar Shahidi in the CSE department?"
+			],
+			"responses": [
+				"Sarwar Shahidi is a Research & Development Officer in the Dept. of Computer Science and Engineering. You can contact him at shahidi@iub.edu.bd, and his office is located in Room BC 6015A."
+			]
+		},
+		{
+			"tag": "Md_Rubayed_Mehedi",
+			"patterns": [
+				"Who is Md Rubayed Mehedi?",
+				"What does Md Rubayed Mehedi do in the CSE department?"
+			],
+			"responses": [
+				"Md Rubayed Mehedi is a Research & Development Officer in the Dept. of Computer Science and Engineering. His email is anik@iub.edu.bd, and his office is in Room BC 6002."
+			]
+		},
+		{
+			"tag": "Mahmudul_Islam",
+			"patterns": [
+				"Tell me about Mahmudul Islam.",
+				"What is Mahmudul Islam's role in the CSE department?"
+			],
+			"responses": [
+				"Mahmudul Islam is a Research & Development Officer in the Dept. of Computer Science and Engineering. You can reach him at mahmud@iub.edu.bd, and his office is located in Room 6015."
+			]
+		},
+		{
+			"tag": "Shoaib_Mirza",
+			"patterns": [
+				"Who is Shoaib Mirza?",
+				"What role does Shoaib Mirza play in the CSE department?"
+			],
+			"responses": [
+				"Shoaib Mirza is the Lab Manager in the Dept. of Computer Science and Engineering. You can contact him at shoaibmirza@iub.edu.bd, and his office is located in Fab Lab IUB (6002)."
+			]
+		},
+		{
+			"tag": "Md_Muhit_Biswas",
+			"patterns": [
+				"Tell me about Md Muhit Biswas.",
+				"What is Md Muhit Biswas's position in the CSE department?"
+			],
+			"responses": [
+				"Md Muhit Biswas is a Lab Technician in the Dept. of Computer Science and Engineering. You can reach him at muhit@iub.edu.bd, and his office is in the CEN Lab."
+			]
+		},
+		{
+			"tag": "Md_Rakibul_Islam",
+			"patterns": [
+				"Who is Md Rakibul Islam?",
+				"What does Md Rakibul Islam do in the CSE department?"
+			],
+			"responses": [
+				"Md Rakibul Islam is a Lab Technician in the Dept. of Computer Science and Engineering. You can contact him at rakibcse@iub.edu.bd."
+			]
+		},
+		{
+			"tag": "Juned_Ahmad_Muhtaseem",
+			"patterns": [
+				"Tell me about Juned Ahmad Muhtaseem.",
+				"What is Juned Ahmad Muhtaseem's position in the Physical Sciences department?"
+			],
+			"responses": [
+				"Juned Ahmad Muhtaseem works in the Dept. of Physical Sciences. You can reach him at juned@iub.edu.bd."
+			]
+		},
+		{
+			"tag": "Md_Rashid_Abid_Monir",
+			"patterns": [
+				"Who is Md. Rashid Abid Monir?",
+				"What role does Md. Rashid Abid Monir play in the Physical Sciences department?"
+			],
+			"responses": [
+				"Md. Rashid Abid Monir is a staff member in the Dept. of Physical Sciences. His email is rashid@iub.edu.bd."
+			]
+		},
+		{
+			"tag": "Md_Azharul_Islam",
+			"patterns": [
+				"Tell me about Md Azharul Islam.",
+				"What is Md Azharul Islam's position in the Physical Sciences department?"
+			],
+			"responses": [
+				"Md Azharul Islam is a Lab Technician in the Dept. of Physical Sciences. You can reach him at azharul357@iub.edu.bd, and his office is located in Room BC 7021."
+			]
+		},
+		{
+			"tag": "Samrat_Tonmoy_Sarkar",
+			"patterns": [
+				"Who is Samrat Tonmoy Sarkar?",
+				"What role does Samrat Tonmoy Sarkar play in the Physical Sciences department?"
+			],
+			"responses": [
+				"Samrat Tonmoy Sarkar is the Office Manager in the Dept. of Physical Sciences. You can contact him at stsarkar@iub.edu.bd, and his office is in Room BC 5001 (C)."
+			]
+		},
+		{
+			"tag": "Mahfuzur_Rahman",
+			"patterns": [
+				"Tell me about Mahfuzur Rahman.",
+				"What is Mahfuzur Rahman's position in the EEE department?"
+			],
+			"responses": [
+				"Mahfuzur Rahman works in the Dept. of Electrical and Electronic Engineering. You can reach him at mahfuzur@iub.edu.bd."
+			]
+		},
+		{
 			"tag": "opentoday",
 			"patterns": [
 				"Are you open today?",
@@ -3204,7 +4164,7 @@
 			"responses": [
 				"62",
 				"About 62 students are international undergraduate students in iub",
-				"Overall international undergraduate students            are 62 in total"
+				"Overall international undergraduate students are 62 in total"
 			]
 		},
 		{
@@ -3232,16 +4192,14 @@
 			]
 		},
 		{
-			"tag": "cse",
+			"tag": "who_made_you",
 			"patterns": [
-				"Tell me the details for CSE Program?",
-				"Tell me the details for BCSE Program?",
-				"I want to know Bachelor of Computer Science and Engineering Program?",
-				"CSE Program",
-				"CSE Details"
+				"Who made you?",
+				"Who created you?",
+				"Who developed you?"
 			],
 			"responses": [
-				"BCSE full form- Bachelor of Computer Science and Engineering, Time duration- 4 years,12 semesters,143 credit hours,TK 6,822          /- per semester (approx. without scholarship)"
+				"I was created by students of IUB and Fab Lab IUB, Umme Aiman, Nakibul Islam, and Hana Sultan."
 			]
 		},
 		{
