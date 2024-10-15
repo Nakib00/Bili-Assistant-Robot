@@ -141,7 +141,8 @@
 				"Can you please tell me details of Dr. Saadia Binte Alam?",
 				"Tell me about Dr. Saadia Binte Alam from CSE",
 				"Info of Saadia Binte Alam",
-				"Please provide information on Dr. Saadia Binte Alam from the CSE Department"
+				"Please provide information on Dr. Saadia Binte Alam from the CSE Department",
+				"Saadia Binte Alam"
 			],
 			"responses": [
 				"Dr. Saadia Binte Alam is Associate Professor and Head of the Computer Science & Engineering Department (CSE). Her Room: BC 5007D, E-mail: saadiabinte@iub.edu.bd."
@@ -154,7 +155,8 @@
 				"Can you please tell me details of Dr. Md Ashraful Amin?",
 				"Tell me about Dr. Md Ashraful Amin from CSE",
 				"Info of Md Ashraful Amin",
-				"Please provide information on Dr. Md Ashraful Amin from the CSE Department"
+				"Please provide information on Dr. Md Ashraful Amin from the CSE Department",
+				"Ashraful Amin"
 			],
 			"responses": [
 				"Dr. Md Ashraful Amin is a Professor in the Computer Science & Engineering Department (CSE). His Room: BC 5001D, E-mail: aminmdashraful@iub.edu.bd."
@@ -167,7 +169,8 @@
 				"Can you please tell me details of Dr. Mahbubur Rahman?",
 				"Tell me about Mahbubur Rahman from CSE",
 				"Info of Mahbubur Rahman",
-				"Please provide information on Mahbubur Rahman from the CSE Department"
+				"Please provide information on Mahbubur Rahman from the CSE Department",
+				"Mahbubur Rahman"
 			],
 			"responses": [
 				"Dr. A K M Mahbubur Rahman is an Associate Professor in the Computer Science & Engineering Department (CSE). His Room: C 7008, E-mail: akmmrahman@iub.edu.bd"
@@ -180,7 +183,8 @@
 				"Can you please tell me details of Dr. Amin Ahsan Ali?",
 				"Tell me about Amin Ahsan Ali from CSE",
 				"Info of Amin Ahsan Ali",
-				"Please provide information on Amin Ahsan Ali from the CSE Department"
+				"Please provide information on Amin Ahsan Ali from the CSE Department",
+				"Amin Ahsan Ali"
 			],
 			"responses": [
 				"Dr. Amin Ahsan Ali is an Associate Professor in the Computer Science & Engineering Department (CSE). His Room: BC 6003, E-mail: aminali@iub.edu.bd"
@@ -193,7 +197,8 @@
 				"Can you please tell me details of Dr. Ferdows Zahid?",
 				"Tell me about Ferdows Zahid from CSE",
 				"Info of Ferdows Zahid",
-				"Please provide information on Ferdows Zahid from the CSE Department"
+				"Please provide information on Ferdows Zahid from the CSE Department",
+				"Ferdows Zahid"
 			],
 			"responses": [
 				"Dr. Ferdows Zahid is an Associate Professor in the Computer Science & Engineering Department (CSE). His Room: BC 6006, E-mail: fzahid@iub.edu.bd"
@@ -206,7 +211,8 @@
 				"Can you please tell me details of Dr. Mahbubul Syeed?",
 				"Tell me about Mahbubul Syeed from CSE",
 				"Info of Mahbubul Syeed",
-				"Please provide information on Mahbubul Syeed from the CSE Department"
+				"Please provide information on Mahbubul Syeed from the CSE Department",
+				"Mahbubul Syeed"
 			],
 			"responses": [
 				"Dr. M M Mahbubul Syeed is an Associate Professor in the Computer Science & Engineering Department (CSE). His Room: C 7002, E-mail: mahbubul.syeed@iub.edu.bd"
@@ -219,43 +225,17 @@
 				"Can you please tell me details of Dr. Mahady Hasan?",
 				"Tell me about Mahady Hasan from CSE",
 				"Info of Mahady Hasan",
-				"Please provide information on Mahady Hasan from the CSE Department",
-				"Can you give me details about Mahady Hasan?",
-				"What can you tell me about Dr. Mahadi Hassan?",
 				"Who is Dr. Mahadi Hasan?",
 				"Info about Mahady Hasaan",
 				"Tell me more about Mahdi Hassan from the Computer Science Department",
 				"Details about Mahadi Hasan",
-				"Can you tell me something about Mahady Hasan?",
-				"Mahady Hasan information",
 				"Who is Mahadi Hassan in the CSE Department?",
-				"What are the details of Dr. Mahadi Hasan?",
-				"Can I get information on Mahady Hasan?",
-				"Provide me with details about Mahadi Hasan",
-				"Tell me about the academic background of Mahady Hasan",
-				"What is Mahady Hasan's email address?",
-				"Mahady Hasaan details",
-				"Is there any info on Mahdi Hasan?",
-				"Can you share details about Dr. Mahady Hasan?",
 				"Who is Mahady?",
-				"What are Dr. Mahady Hasan's qualifications?",
-				"Who is Mahady Hasaan?",
+				"Mahady Hasaan?",
 				"Can you tell me about Mahadi?",
-				"More information about Mahady Hasan from CSE",
 				"Who is the associate professor Mahady Hasan?",
 				"Any details on Mahady Hasan?",
-				"Give me the background of Mahady Hasan",
-				"Tell me about Mahadi Hasan's research interests",
-				"Mahadi Hasan's contact information",
-				"What does Dr. Mahady Hasan teach?",
-				"What is the contact information for Mahady Hasan?",
-				"Could you provide details on Mahady?",
-				"Who is Mahady from the CSE Department?",
-				"What is the role of Mahady Hasan at IUB?",
-				"More about Dr. Mahady Hasan",
-				"Tell me the office location of Mahady Hasan",
-				"Mahady Hasan's profile",
-				"Who is the Dr. Mahadi Hassan in Computer Science?"
+				"Give me the background of Mahady Hasan"
 			],
 			"responses": [
 				"Dr. Mahady Hasan is an Associate Professor in the Computer Science & Engineering Department (CSE). His Room: BC 6001, E-mail: mahady@iub.edu.bd"
@@ -268,7 +248,8 @@
 				"Can you please tell me details of Dr.Faisal Uddin?",
 				"Tell me about Mohammad Faisal Uddin from CSE",
 				"Info of Faisal Uddin",
-				"Please provide information on Faisal Uddin from the CSE Department"
+				"Please provide information on Faisal Uddin from the CSE Department",
+				"Faisal Uddin"
 			],
 			"responses": [
 				"Dr. Mohammad Faisal Uddin is an Associate Professor in the Computer Science & Engineering Department (CSE). His Room: BC 5001F, E-mail: faisal@iub.edu.bd"
@@ -281,7 +262,8 @@
 				"Can you please tell me details of Dr. Tarem Ahmed?",
 				"Tell me about Tarem Ahmed from CSE",
 				"Info of Tarem Ahmed",
-				"Please provide information on Tarem Ahmed from the CSE Department"
+				"Please provide information on Tarem Ahmed from the CSE Department",
+				"Tarem Ahmed"
 			],
 			"responses": [
 				"Dr. Tarem Ahmed is an Associate Professor in the Computer Science & Engineering Department (CSE). His Room: C 7011, E-mail: tarem@iub.edu.bd"
@@ -294,7 +276,8 @@
 				"Can you please tell me details of Dr. Ashraful Islam?",
 				"Tell me about Ashraful Islam from CSE",
 				"Info of Ashraful Islam",
-				"Please provide information on Ashraful Islam from the CSE Department"
+				"Please provide information on Ashraful Islam from the CSE Department",
+				"Ashraful Islam"
 			],
 			"responses": [
 				"Dr. Ashraful Islam is an Assistant Professor in the Computer Science & Engineering Department (CSE). His Room: MK 8004, E-mail: ashraful@iub.edu.bd"
@@ -307,7 +290,8 @@
 				"Can you please tell me details of Dr. Asif Mahmood?",
 				"Tell me about Asif Mahmood from CSE",
 				"Info of Asif Mahmood",
-				"Please provide information on Asif Mahmood from the CSE Department"
+				"Please provide information on Asif Mahmood from the CSE Department",
+				"Asif Mahmood"
 			],
 			"responses": [
 				"Dr. Asif Mahmood is an Assistant Professor in the Computer Science & Engineering Department (CSE). His Room: C 7004, E-mail: asif.mahmood@iub.edu.bd"
@@ -320,7 +304,8 @@
 				"Can you please tell me details of Dr. Farzana Rahman?",
 				"Tell me about Farzana Rahman from CSE",
 				"Info of Farzana Rahman",
-				"Please provide information on Farzana Rahman from the CSE Department"
+				"Please provide information on Farzana Rahman from the CSE Department",
+				"Farzana Rahman"
 			],
 			"responses": [
 				"Dr. Farzana Rahman is an Assistant Professor in the Computer Science & Engineering Department (CSE). Her Room: C 7016, E-mail: farzana.rahman@iub.edu.bd"
@@ -333,7 +318,8 @@
 				"Can you please tell me details of Dr. Shakhawat Hossain?",
 				"Tell me about Shakhawat Hossain from CSE",
 				"Info of Shakhawat Hossain",
-				"Please provide information on Shakhawat Hossain from the CSE Department"
+				"Please provide information on Shakhawat Hossain from the CSE Department",
+				"Shakhawat Hossain"
 			],
 			"responses": [
 				"Dr. Md Shakhawat Hossain is an Assistant Professor in the Computer Science & Engineering Department (CSE). His Room: C 7015, E-mail: shakhawat@iub.edu.bd"
@@ -346,7 +332,8 @@
 				"Can you please tell me details of Dr. Tarek Habib?",
 				"Tell me about Tarek Habib from CSE",
 				"Info of Tarek Habib",
-				"Please provide information on Tarek Habib from the CSE Department"
+				"Please provide information on Tarek Habib from the CSE Department",
+				"Tarek Habib"
 			],
 			"responses": [
 				"Dr. Md Tarek Habib is an Assistant Professor in the Computer Science & Engineering Department (CSE). His Room: BC, E-mail: tarek@iub.edu.bd"
@@ -359,7 +346,8 @@
 				"Can you please tell me details of Dr. Zahangir Alam?",
 				"Tell me about Zahangir Alam from CSE",
 				"Info of Zahangir Alam",
-				"Please provide information on Zahangir Alam from the CSE Department"
+				"Please provide information on Zahangir Alam from the CSE Department",
+				"Zahangir Alam"
 			],
 			"responses": [
 				"Dr. Md Zahangir Alam is an Assistant Professor in the Computer Science & Engineering Department (CSE). His Room: BC, E-mail: zahangir.alam@iub.edu.bd"
@@ -372,7 +360,8 @@
 				"Can you please tell me details of Dr. Shidujaman?",
 				"Tell me about Shidujaman from CSE",
 				"Info of Shidujaman",
-				"Please provide information on Shidujaman from the CSE Department"
+				"Please provide information on Shidujaman from the CSE Department",
+				"Shidujaman"
 			],
 			"responses": [
 				"Dr. Mohammad Shidujaman is an Assistant Professor in the Computer Science & Engineering Department (CSE). His Room: BC, E-mail: shidujaman@iub.edu.bd"
@@ -385,7 +374,8 @@
 				"Can you please tell me details of Dr. Razib Hayat Khan?",
 				"Tell me about Razib Hayat Khan from CSE",
 				"Info of Razib Hayat Khan",
-				"Please provide information on Razib Hayat Khan from the CSE Department"
+				"Please provide information on Razib Hayat Khan from the CSE Department",
+				"Razib Hayat"
 			],
 			"responses": [
 				"Dr. Razib Hayat Khan is an Assistant Professor in the Computer Science & Engineering Department (CSE). His Room: C 7007, E-mail: rkhan@iub.edu.bd"
@@ -398,7 +388,8 @@
 				"Can you please tell me details of Ajmiri Sabrina Khan?",
 				"Tell me about Ajmiri Sabrina Khan from CSE",
 				"Info of Ajmiri Khan",
-				"Please provide information on Ajmiri Sabrina Khan from the CSE Department"
+				"Please provide information on Ajmiri Sabrina Khan from the CSE Department",
+				"Ajmiri"
 			],
 			"responses": [
 				"Ms. Ajmiri Sabrina Khan is a Lecturer A in the Computer Science & Engineering Department (CSE). Her Room: C 7003, E-mail: ajmirikhan@iub.edu.bd"
@@ -411,7 +402,8 @@
 				"Can you please tell me details of Bijoy Rahman Arif?",
 				"Tell me about Bijoy Rahman Arif from CSE",
 				"Info of Bijoy Arif",
-				"Please provide information on Bijoy Rahman Arif from the CSE Department"
+				"Please provide information on Bijoy Rahman Arif from the CSE Department",
+				"Bijoy Arif"
 			],
 			"responses": [
 				"Mr. Bijoy Rahman Arif is a Lecturer A in the Computer Science & Engineering Department (CSE). His Room: BC 5010, E-mail: bijoyarif@iub.edu.bd"
@@ -424,7 +416,8 @@
 				"Can you please tell me details of Kaniz Fatema?",
 				"Tell me about Kaniz Fatema from CSE",
 				"Info of Kaniz Fatema",
-				"Please provide information on Kaniz Fatema from the CSE Department"
+				"Please provide information on Kaniz Fatema from the CSE Department",
+				"Kaniz Fatema"
 			],
 			"responses": [
 				"Ms. Kaniz Fatema is a Lecturer A in the Computer Science & Engineering Department (CSE). Her Room: C 7003, E-mail: kaniz.fatema@iub.edu.bd"
@@ -437,7 +430,8 @@
 				"Can you please tell me details of Abu Sayed?",
 				"Tell me about Abu Sayed from CSE",
 				"Info of Abu Sayed",
-				"Please provide information on Abu Sayed from the CSE Department"
+				"Please provide information on Abu Sayed from the CSE Department",
+				"Abu Sayed"
 			],
 			"responses": [
 				"Mr. Md Abu Sayed is a Lecturer A in the Computer Science & Engineering Department (CSE). His Room: BC 5010, E-mail: asayed@iub.edu.bd"
@@ -450,7 +444,9 @@
 				"Can you please tell me details of Asif Bin Khaled?",
 				"Tell me about Asif Bin Khaled from CSE",
 				"Info of Asif Bin Khaled",
-				"Please provide information on Asif Bin Khaled from the CSE Department"
+				"Please provide information on Asif Bin Khaled from the CSE Department",
+				"Asif Bin Khaled",
+				"Asif"
 			],
 			"responses": [
 				"Mr. Md Asif Bin Khaled is a Lecturer A in the Computer Science & Engineering Department (CSE). His Room: BC 5010D, E-mail: mdasifbinkhaled@iub.edu.bd"
@@ -463,7 +459,8 @@
 				"Can you please tell me details of Fahad Monir?",
 				"Tell me about Fahad Monir from CSE",
 				"Info of Fahad Monir",
-				"Please provide information on Fahad Monir from the CSE Department"
+				"Please provide information on Fahad Monir from the CSE Department",
+				"Fahad Monir"
 			],
 			"responses": [
 				"Mr. Md Fahad Monir is a Lecturer A in the Computer Science & Engineering Department (CSE). His Room: BC 5010, E-mail: fahad.monir@iub.edu.bd"
@@ -476,7 +473,8 @@
 				"Can you please tell me details of Noor Nabi?",
 				"Tell me about Noor Nabi from CSE",
 				"Info of Noor Nabi",
-				"Please provide information on Noor Nabi from the CSE Department"
+				"Please provide information on Noor Nabi from the CSE Department",
+				"Noor Nabi"
 			],
 			"responses": [
 				"Mr. Mohammad Noor Nabi is a Lecturer A in the Computer Science & Engineering Department (CSE). His Room: BC 6005, E-mail: mnnabi@iub.edu.bd"
@@ -489,7 +487,9 @@
 				"Can you please tell me details of Sabrina Alam?",
 				"Tell me about Sabrina Alam from CSE",
 				"Info of Sabrina Alam",
-				"Please provide information on Sabrina Alam from the CSE Department"
+				"Please provide information on Sabrina Alam from the CSE Department",
+				"Sabrina Alam",
+				"Sabrina miss"
 			],
 			"responses": [
 				"Ms. Sabrina Alam is a Lecturer A in the Computer Science & Engineering Department (CSE). Her Room: BC 5007, E-mail: sabrina.alam@iub.edu.bd"
@@ -502,7 +502,9 @@
 				"Can you please tell me details of Sanzar Alam?",
 				"Tell me about Sanzar Adnan Alam from CSE",
 				"Info of Sanzar Alam",
-				"Please provide information on Sanzar Alam from the CSE Department"
+				"Please provide information on Sanzar Alam from the CSE Department",
+				"Sanzar Alam",
+				"Sanzar sir"
 			],
 			"responses": [
 				"Mr. Sanzar Adnan Alam is a Lecturer A in the Computer Science & Engineering Department (CSE). His Room: BC 6005, E-mail: sanzar@iub.edu.bd"
@@ -515,7 +517,8 @@
 				"Can you please tell me details of Subrata Kumar Dey?",
 				"Tell me about Subrata Kumar Dey from CSE",
 				"Info of Subrata Kumar Dey",
-				"Please provide information on Subrata Kumar Dey from the CSE Department"
+				"Please provide information on Subrata Kumar Dey from the CSE Department",
+				"skd"
 			],
 			"responses": [
 				"Mr. Subrata Kumar Dey is a Lecturer A in the Computer Science & Engineering Department (CSE). His Room: BC 6005C, E-mail: subrata@iub.edu.bd"
@@ -528,7 +531,8 @@
 				"Can you please tell me details of Asif Mahmud?",
 				"Tell me about Asif Mahmud from CSE",
 				"Info of Asif Mahmud",
-				"Please provide information on Asif Mahmud from the CSE Department"
+				"Please provide information on Asif Mahmud from the CSE Department",
+				"Asif Mahmud"
 			],
 			"responses": [
 				"Mr. Asif Mahmud is a Lecturer B in the Computer Science & Engineering Department (CSE). His Room: BC 5010, E-mail: asif@iub.edu.bd"
@@ -541,7 +545,9 @@
 				"Can you please tell me details of Motiur Rahman?",
 				"Tell me about Motiur Rahman from CSE",
 				"Info of Motiur Rahman",
-				"Please provide information on Motiur Rahman from the CSE Department"
+				"Please provide information on Motiur Rahman from the CSE Department",
+				"Motiur Rahman",
+				"Motiur sir"
 			],
 			"responses": [
 				"Mr. Mohammad Motiur Rahman is a Lecturer B in the Computer Science & Engineering Department (CSE). His Room: BC 5010, E-mail: motiur@iub.edu.bd"
@@ -554,7 +560,8 @@
 				"Can you please tell me details of Sajed Imtenanul Haque?",
 				"Tell me about Sajed Imtenanul Haque from CSE",
 				"Info of Sajed Imtenanul Haque",
-				"Please provide information on Sajed Imtenanul Haque from the CSE Department"
+				"Please provide information on Sajed Imtenanul Haque from the CSE Department",
+				"Sajed Imtenanul Haque"
 			],
 			"responses": [
 				"Mr. Sajed Imtenanul Haque is a Lecturer B in the Computer Science & Engineering Department (CSE). His Room: BC 6005B, E-mail: imtenanul@iub.edu.bd"
